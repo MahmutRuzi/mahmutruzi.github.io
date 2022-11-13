@@ -8,4 +8,4 @@ Contact information is below, including email and various web services.  This i
 
 * E-mail: mruzi17 [at] gmail.com
 * Twitter: [mahmutruzi](http://twitter.com/mahmutruzi)
-* Google Scholar: [author: Mahmut-Ruzi](https://scholar.google.com/citations?user=xp807nkAAAAJ&hl=en)
+* Google Scholar: [author: Mahmut Ruzi](https://scholar.google.com/citations?user=xp807nkAAAAJ&hl=en)
