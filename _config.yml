@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "staeiou"
+  username               : &twitter "mahmutruzi"
 facebook:
   username               : 
   app_id                 :
@@ -80,10 +80,10 @@ social:
 # Site Author
 author:
   name             : "Mahmut Ruzi"
-  avatar           : "oban3.jpg"
+  avatar           : "MahmutProfile.png"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
-  bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a>"
+  bio              : "Physical Chemist <br> <br> Research Fellow at Erciyes University, <a style='color: black;' href='https://ernam.erciyes.edu.tr'>Nanotechnology Research and Application Center (ERNAM)</a>"
   location         : "Kayseri, Turkey"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=xp807nkAAAAJ&hl=en"
