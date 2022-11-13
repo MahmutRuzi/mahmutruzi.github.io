@@ -176,13 +176,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   articles:
     output: true
     permalink: /:collection/:path/
   expressions:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
