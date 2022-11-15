@@ -1,10 +1,11 @@
 ---
 title: "Machine Learning-Assisted Pesticide Detection on a Flexible Surface-Enhanced Raman Scattering Substrate Prepared by Silver Nanoparticles"
 category: articles
-permalink: /articles/2022-09-ML-SERS-pesticide-detection
+permalink: /articles/2022-09-ML-SERS-pesticide-detection/
 excerpt: "This study reports eco-friendly preparation of the surface-enhanced Raman scattering (SERS) substrate for machine learning-assisted detection of pesticides in water. The ML-mediated detection of harmful pesticides on a versatile, green, and inexpensive SERS platform appears to be promising for environmental applications."
-venue: "ACS Applied Nanomaterial"
-date: 2022-09-13
+venue: "ACS Applied Nanomaterials"
+date: 2021-11-05
+
 ---
 
 <a href="https://doi.org/10.1021/acsanm.2c02897">Read full article here</a>.
