@@ -1,7 +1,7 @@
 ---
-permalink: /
+permalink: /research/
 title: "Research"
-excerpt: "About me"
+excerpt: "Research"
 author_profile: true
 redirect_from: 
   - "/wordpress/"
