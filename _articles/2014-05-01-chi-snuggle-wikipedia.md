@@ -1,15 +1,13 @@
 ---
-title: "Snuggle: Designing for efﬁcient socialization and ideological critique"
+title: "Terahertz and mid-infrared spectra of cold formic acid aerosol particles"
 category: articles
-permalink: /articles/2014-05-01-chi-snuggle-wikipedia/ 
-excerpt: 'This paper discusses the Snuggle project, built to support newcomer socialization and reflexive critique of Wikipedia&apos;s existing socialization processes.'
-date: 2014-05-01
-venue: 'Proceedings of CHI'
-citation: 'Halfaker, Aaron., Geiger, R. Stuart., and Treveen, Loren. (2014). “Snuggle: Designing for Efﬁcient Socialization and Ideological Critique.” In Proceedings of the 2014 ACM Conference on Human Factors in Computing (CHI 2014). http://www-users.cs.umn.edu/~halfak/publications/Snuggle/halfaker14snuggle-personal.pdf'
+permalink: /articles/2018-08-20-Formic-acid-terahertz/ 
+excerpt: 'Fourier transform infrared spectra of formic acid aerosol particles in situ generated in a collisional cooling cell at temperatures ranging between 90 and 210 K are recorded in the mid-infrared and THz/far-infrared regions. Infrared spectroscopic features are used to identify the formic acid dimer above 200 K, the crystalline β1 phase in the 110–200 K temperature range, and amorphous solid formic acid at ∼90 K.'
+date: 2018-08-20
+venue: 'ACS Earth and Space Chemistry'
+
 ---
 
-<a href='http://www-users.cs.umn.edu/~halfak/publications/Snuggle/halfaker14snuggle-personal.pdf'>Download PDF here</a>
+<a href='https://doi.org/10.1021/acsearthspacechem.8b00085'>Read full article here</a>
 
-Abstract: We worked with a coalition of Wikipedians to design, develop, and deploy Snuggle, a new user interface that served two critical functions: making the work of newcomer socialization more effective, and bringing visibility to instances in which Wikipedians’ current practice of gatekeeping socialization breaks down. Snuggle supports positive socialization by helping mentors quickly find newcomers whose good-faith mistakes were reverted as damage. Snuggle also supports ideological critique and reflection by bringing visibility to the consequences of viewing newcomers through a lens of suspiciousness.
-
- Recommended citation: Halfaker, Aaron., Geiger, R. Stuart., and Treveen, Loren. (2014). “Snuggle: Designing for Efﬁcient Socialization and Ideological Critique.” In Proceedings of the 2014 ACM Conference on Human Factors in Computing (CHI 2014). http://www-users.cs.umn.edu/~halfak/publications/Snuggle/halfaker14snuggle-personal.pdf
+Abstract: Fourier transform infrared spectra of formic acid aerosol particles in situ generated in a collisional cooling cell at temperatures ranging between 90 and 210 K are recorded in the mid-infrared and THz/far-infrared regions. Infrared spectroscopic features are used to identify the formic acid dimer above 200 K, the crystalline β1 phase in the 110–200 K temperature range, and amorphous solid formic acid at ∼90 K. Density functional calculations of discrete clusters and the full periodic β1 crystalline structure help to assign the low wavenumber intermolecular modes by comparison with experimental far IR and Raman data from the literature. Refractive indices of the formic acid crystal in the mid-IR range are retrieved. These data are essential for radiative transfer modeling of solid formic acid condensed in the terrestrial atmosphere. THz/far IR spectra, in addition to the well documented mid-infrared spectra, may be useful for the identification of solid formic acid in astrophysical environments such as the young stellar object W33A.
