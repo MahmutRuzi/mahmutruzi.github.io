@@ -1,15 +1,13 @@
 ---
-title: "Bot-based collective blocklists in Twitter: the counterpublic moderation of harassment in a networked public space"
+title: "Chemical funneling of colloidal gold nanoparticles on printed arrays of end-grafted polymers for plasmonic applications"
 category: articles
-permalink: /articles/2016-03-21-blockbots-ics/ 
-excerpt: 'This article introduces and discusses bot-based collective blocklists (or blockbots) in Twitter, which have been developed by volunteers to combat harassment in the social networking site in a more decentralized and counterpublic way than actions taken by Twitter, Inc. staff. I discuss how such forms of automation require that communities encode specific understandings of what harassment is and how to identify it, relating these cases to several longstanding issues around the governance and moderation of the public sphere.'
-date: 2016-03-21
-venue: 'Information, Communication, and Society'
-citation: 'Geiger, R. Stuart. (2016). “Bot-based collective blocklists in Twitter: the counterpublic moderation of harassment in a networked public space.” Information, Communication, and Society 19(6). http://stuartgeiger.com/blockbots-ics.pdf'
+permalink: /articles/2020-06-22-ACS-NANO/ 
+excerpt: 'We demonstrate high-resolution additive jet printing of end-functional polymers to serve as templates for directed self-assembly of nanoparticles into architectures with substantial plasmonic activity. The intriguing aspect of this work is the ability to form patterns of end-grafted poly(ethylene glycol) through printing on a hydrophobic layer that consists of fluoroalkylsilanes. Gold nanospheres of varying diameters selectively bind and assemble into nanostructures with reduced interparticle distances on the hydrophilic patterns of poly(ethylene glycol) surrounded with a hydrophobic background'
+date: 2020-06-22
+venue: 'ACS Nano'
+
 ---
 
-<a href='http://stuartgeiger.com/blockbots-ics.pdf'>Download PDF here</a>
+<a href='https://doi.org/10.1021/acsnano.0c01987'>Read full article here</a>
 
-Abstract: This article introduces and discusses bot-based collective blocklists (or blockbots) in Twitter, which have been developed by volunteers to combat harassment in the social networking site. Blockbots support the curation of a shared blocklist of accounts, where subscribers to a blockbot will not receive any notifications or messages from accounts on the blocklist. Blockbots support counterpublic communities, helping people moderate their own experiences of a site. This article provides an introduction and overview of blockbots and the issues that they raise about networked publics and platform governance, extending an intersecting literature on online harassment, platform governance, and the politics of algorithms.
-
- Recommended citation: Geiger, R. Stuart. (2016). “Bot-based collective blocklists in Twitter: the counterpublic moderation of harassment in a networked public space.” Information, Communication, and Society 19(6). http://stuartgeiger.com/blockbots-ics.pdf
+Abstract: Spatially defined assembly of colloidal metallic nanoparticles is necessary for fabrication of plasmonic devices. In this study, we demonstrate high-resolution additive jet printing of end-functional polymers to serve as templates for directed self-assembly of nanoparticles into architectures with substantial plasmonic activity. The intriguing aspect of this work is the ability to form patterns of end-grafted poly(ethylene glycol) through printing on a hydrophobic layer that consists of fluoroalkylsilanes. The simultaneous dewetting of the underlying hydrophobic layer together with grafting of the printed polymer during thermal annealing enables fabrication of spatially defined binding sites for assembly of nanoparticles. The employment of electrohydrodynamic jet printing and aqueous inks together with reduction of the feature size during thermal annealing are critically important in achieving high chemical contrast patterns as small as ∼250 nm. Gold nanospheres of varying diameters selectively bind and assemble into nanostructures with reduced interparticle distances on the hydrophilic patterns of poly(ethylene glycol) surrounded with a hydrophobic background. The resulting plasmonic arrays exhibit intense and pattern-specific signals in surface-enhanced Raman scattering (SERS) spectroscopy. The localized seed-mediated growth of metallic nanostructures over the patterned gold nanospheres presents further routes for expanding the composition of the plasmonic arrays. A representative application in SERS-based surface encoding is demonstrated through large-area patterning of plasmonic structures and multiplex deposition of taggant molecules, all enabled by printing.
