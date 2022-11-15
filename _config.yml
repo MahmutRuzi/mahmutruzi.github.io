@@ -102,6 +102,7 @@ author:
   lastfm           :
   linkedin         : "mahmut-ruzi-33202bb5"
   orcid            : "https://orcid.org/0000-0003-1945-0418"
+  mastodon         : "mastodon.online/@MahmutRuzi"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -119,10 +120,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - "*.pdf"
-  - "papers/*.pdf"
-  - "portfolio/papers/*.pdf"
-  - "portfolio/*.pdf"
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -216,7 +214,7 @@ defaults:
     values:
       layout: single
       read_time: false
-      author_profile: true
+      author_profile: false
       share: false
       comments: false
   # _articles
