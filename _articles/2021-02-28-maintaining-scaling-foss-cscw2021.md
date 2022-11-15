@@ -3,7 +3,7 @@ title: "Superhydrophobic coatings for food packaging applications: A review"
 category: articles
 permalink: /articles/2021-02-28-maintaining-scaling-foss-cscw2021/
 excerpt: "Superhydrophobic coatings can prevent fouling and contamination of food packages. An additional capability is the minimization of food waste and improving consumer experience due to the easy sliding of food from the inner side of the package."
-venue: "PFood Packaging and Shelf Life"
+venue: "Food Packaging and Shelf Life"
 date: 2021-06-01
 ---
 
