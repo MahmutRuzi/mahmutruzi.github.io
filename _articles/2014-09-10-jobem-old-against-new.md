@@ -1,15 +1,13 @@
 ---
-title: "Old Against New, or a Coming of Age? Broadcasting in an Era of Electronic Media."
+title: "Superhydrophobic coatings made from biocompatible polydimethylsiloxane and natural wax"
 category: articles
-permalink: /articles/2014-09-10-jobem-old-against-new/ 
-excerpt: 'On the history and continued relevance of the term &quot;broadcasting&quot; in an era of social media.'
-date: 2014-09-10
-venue: 'Journal of Broadcasting and Electronic Media'
-citation: 'Geiger, R. Stuart and Lampinen, Airi. (2014). “Old Against New, or a Coming of Age? Broadcasting in an Era of Electronic Media.” Journal of Broadcasting and Electronic Media 58(3). http://www.stuartgeiger.com/jobem.pdf'
+permalink: /articles/2019-08-15-superhydrophobic-PDMS-wax/ 
+excerpt: 'We report the preparation of a composite suspension coating from biocompatible carnauba wax and polydimethylsiloxane, and demonstrate its superhydrophobicity and resistance to water impact. The superhydrophobicity and mechanical stability of the coated surfaces can be controlled by adjusting the concentrations of constituent materials.'
+date: 2019-08-15
+venue: 'Progress in Organic Coatings'
+
 ---
 
-<a href='http://www.stuartgeiger.com/jobem.pdf'>Download PDF here</a>
+<a href='https://doi.org/10.1016/j.porgcoat.2019.105279'>Read full article here</a>
 
-Abstract: “Broadcasting” is often cast as an outdated term—we are constantly told that we are in the midst of a digital/social media revolution that will make the unidirectional, mass communication model obsolete. In response, we argue that to consider the continued relevance of terms like “broadcasting” in an era of electronic media is to neither hastily disregard the legacy of these terms, nor cling to them too rigidly. In this special issue of the Journal of Broadcasting and Electronic Media written and edited by graduate students, we begin a new thread in the longstanding conversation about what it means for media to be “old” and “new.”
-
- Recommended citation: Geiger, R. Stuart and Lampinen, Airi. (2014). “Old Against New, or a Coming of Age? Broadcasting in an Era of Electronic Media.” Journal of Broadcasting and Electronic Media 58(3). http://www.stuartgeiger.com/jobem.pdf
+Abstract: “There is a strong need for mechanically robust superhydrophobic coatings that can be manufactured from eco-friendly and sustainable materials for a broad portfolio of applications. Here, we report the preparation of a composite suspension coating from biocompatible carnauba wax and polydimethylsiloxane, and demonstrate its superhydrophobicity and resistance to water impact. The superhydrophobicity and mechanical stability of the coated surfaces can be controlled by adjusting the concentrations of constituent materials. The composite suspension can be easily drop cast or spray-coated on common materials, such as glass and paper, wherein the coated surface exhibits excellent superhydrophobicity and self-cleaning property. Glass substrates spray-coated with the composite suspension demonstrate high levels of resistance against water impact, retaining superhydrophobicity even after the impact of 250,000 water droplets.”
