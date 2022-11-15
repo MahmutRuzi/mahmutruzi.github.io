@@ -1,15 +1,13 @@
 ---
-title: "Defining, Designing, and Evaluating Civic Values in Human Computation and Collective Action Systems"
+title: "Effect of fabric texture on the durability of fluorine-free superhydrophobic coatings"
 category: articles
-permalink: /articles/2014-11-02-hcomp-values-in-crowdsourcing/ 
-excerpt: 'We review various crowdsourcing and collective action systems, identifying particular sets of civic values and assumptions.'
-date: 2014-11-02
-venue: 'Proceedings of HCOMP, Citizen-X Workshop'
-citation: 'Matias, N. and Geiger, R.S. “Defining, Designing, and Evaluating Civic Values in Human Computation and Collective Action Systems.” In Proceedings of HCOMP 2014, Citizen-X Workshop. http://stuartgeiger.com/defining-civic-values-hcomp-matias-geiger.pdf.'
+permalink: /articles/2020-05-superhydrophobic-fabric/ 
+excerpt: 'we prepare a fluorine-free superhydrophobic coating from hydrophobic SiO2 nanoparticles that can be easily applied to common fabrics by simply spray coating, leading to superhydrophobic fabrics with a water contact angle of 172° and a sliding angle of 3°. The process to achieve extreme water repellency is simple and only involves a single step, and there is no need for further processes like annealing or heat treatment.'
+date: 2020-03-19
+venue: 'Journal of Coatings Technology and Research'
+
 ---
 
-<a href='http://stuartgeiger.com/defining-civic-values-hcomp-matias-geiger.pdf'>Download PDF here</a>
+<a href='https://doi.org/10.1007/s11998-020-00333-4'>Read full article here</a>
 
-Abstract: Collective action is often described in terms of the relationships, learning, principled processes, and community capacities it fosters. Despite this, human computation and collective action systems are often designed and evaluated with system outputs in mind: the quality of answers, the number of votes, the accuracy of content created. In this proposal, we review literature on the design values of “citizen-x” systems, put forward a series of models for describing the civic values in “citizen-x”, and classify systems by those models.
-
- Recommended citation: Matias, N. and Geiger, R.S. “Defining, Designing, and Evaluating Civic Values in Human Computation and Collective Action Systems.” In Proceedings of HCOMP 2014, Citizen-X Workshop. http://stuartgeiger.com/defining-civic-values-hcomp-matias-geiger.pdf.
+Abstract: Water repellency is a desired feature of fabrics for certain applications in textile industry such as water-repellent garments, tents, and umbrellas. Coating of fabrics with fluorocarbons or silicones followed by heat treatment is the general process to impart hydrophobicity even though the resulted water repellency is limited. In this study, we prepare a fluorine-free superhydrophobic coating from hydrophobic SiO2 nanoparticles that can be easily applied to common fabrics by simply spray coating, leading to superhydrophobic fabrics with a water contact angle of 172° and a sliding angle of 3°. The process to achieve extreme water repellency is simple and only involves a single step, and there is no need for further processes like annealing or heat treatment. The superhydrophobic coated fabrics display durability dependence on the texture of the underlying material, where coated chenille and nonwoven fabrics show robust mechanical durability against water impact, abrasion, and laundering. The ready availability of the coating materials, the simple process of application, and the robust mechanical durability of superhydrophobic fabrics show great potential for real-world applications.
