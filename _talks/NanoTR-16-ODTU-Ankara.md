@@ -1,7 +1,7 @@
 ---
 title: "Facile Fabrication of Plasmonic Nanostructures for Surface Enhanced Vibrational Spectroscopy"
 collection: talks
-type: "Paper presentation"
+type: "Talk"
 permalink: /talks/NanoTR-16-ODTU-Ankara/ 
 venue: "NanoTR-16"
 date: 2022-09-07
