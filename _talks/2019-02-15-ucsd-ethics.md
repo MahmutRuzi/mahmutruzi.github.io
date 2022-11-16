@@ -6,4 +6,5 @@ permalink: /talks/2016-02-02-Christchurch/
 venue: "RACI PhysChem Conference"
 date: 2019-02-15
 location: "Christchurch, New Zealand"
+excerpt: "Attended the RACI conference in the University of Canterbury, Christchurch, New Zealand."
 
