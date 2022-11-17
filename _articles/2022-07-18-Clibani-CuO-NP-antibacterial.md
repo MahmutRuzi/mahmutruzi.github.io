@@ -2,7 +2,7 @@
 title: "One-step Green Fabrication of Antimicrobial Surfaces via In Situ Growth of Copper Oxide Nanoparticles"
 category: articles
 permalink: /articles/2022-07-18-Clibani-CuO-NP-antibacterial/
-excerpt: "CuO nanoparticles grown in situ on paper surface exhibit excellent antibacterial activity ."
+excerpt: "CuO nanoparticles grown in situ on paper surface exhibit excellent antibacterial activity. Moreover, the fabricated surface shows excellent growth inhibition ability and bactericidal activity against both gram-negative and gram-positive bacteria, Escherichia coli and Staphylococcus aureus, as well as antifungal activity against Candida albicans, a common pathogenic fungus."
 venue: "ACS Omega"
 date: 2022-07-18
 
