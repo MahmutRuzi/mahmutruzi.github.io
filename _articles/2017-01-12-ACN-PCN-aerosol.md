@@ -2,7 +2,7 @@
 title: "Infrared characterisation of acetonitrile and propionitrile aerosols under Titan's atmospheric conditions"
 category: articles
 permalink: /articles/2017-01-12-ACN-PCN-aerosol/ 
-excerpt: 'Pure, crystalline acetonitrile (CH3CN) and propionitrile (CH3CH2CN) particles were formed in a collisional cooling cell allowing for infrared (IR) signatures to be compiled from 50 to 5000 cm−1. The cell temperature and pressure conditions were controlled to simulate Titan's lower atmosphere (80–130 K and 1–100 mbar), allowing for the comparison of laboratory data to the spectra obtained from the Cassini–Huygens mission.'
+excerpt: 'Pure, crystalline acetonitrile (CH3CN) and propionitrile (CH3CH2CN) particles were formed in a collisional cooling cell allowing for infrared  signatures to be compiled from 50 to 5000 cm−1. The cell temperature and pressure conditions were controlled to simulate Titan's lower atmosphere (80–130 K and 1–100 mbar), allowing for the comparison of laboratory data to the spectra obtained from the Cassini–Huygens mission.'
 date: 2017-01-12
 venue: 'Physical Chemistry Chemical Physics'
 
