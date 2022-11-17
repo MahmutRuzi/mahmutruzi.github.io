@@ -2,7 +2,7 @@
 title: "Waxing the soot: Practical fabrication of all-organic superhydrophobic coatings from candle soot and carnauba wax"
 category: articles
 permalink: /articles/2021-04-wax-soot/ 
-excerpt: "We report a robust water impact resistant all-organic superhydrophobic coating that is prepared from low-cost colloidal dispersion composed of carnauba wax and candle soot."
+excerpt: "We report a robust water impact resistant all-organic superhydrophobic coating that is prepared from low-cost colloidal dispersion composed of carnauba wax and candle soot.The colloidal dispersion is stable and can be spray-coated onto virtually any surfaces. The coated surfaces exhibit superhydrophobicity with a water contact angle of 172° and sliding angle of 3°, and retain superhydrophobicity even after 400 cycles of continuous water spray with an impact pressure of 7.4 kPa."
 date: 2021-04-01
 venue: 'Progress in Organic Coatings'
 
