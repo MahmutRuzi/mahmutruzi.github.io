@@ -14,6 +14,6 @@ Welcome! I’m Mahmut Ruzi, Ph.D., a research fellow at the Erciyes University, 
 
 # News
 -  I attended the 13th [Chemical Physics Congress](https://lnkd.in/deWeuSTg) in Elazig, Turkey. 
--  Our work on the machine-learning assisted classifiction of pesticides based on their SERS spectra obtained on paper decorated with silver nanoparticles   published in [ACS Applied Nano Materials](https://doi.org/10.1021/acsanm.2c02897)
+-  Our work on the machine-learning assisted classifiction of pesticides based on their SERS spectra obtained on paper decorated with silver nanoparticles   is published in [ACS Applied Nano Materials](https://doi.org/10.1021/acsanm.2c02897)
 -  I attended & gave a talk at the [16th Nanoscience & Nanotechnology Conference](https://nanotr.org/en/) in METU, Ankara, Turkey. 
 
