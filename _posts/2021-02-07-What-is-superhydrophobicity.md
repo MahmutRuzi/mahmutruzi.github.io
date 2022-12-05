@@ -1,9 +1,9 @@
 ---
-title: 'Trace Ethnography: A Retrospective'
-date: 2016-03-28T18:55:01+00:00
-permalink: /posts/2016/03/trace-ethnography-a-retrospective/ 
+title: 'Superhydrophobicity: What is it ?'
+date: 2022-12-05
+permalink: /posts/2021/02/2021-02-07-What-is-superhydrophobicity/ 
 ---
-_This is a cross-post of [a post I wrote](https://medium.com/@mahmutruzi/super-hydrophobic-coatings-what-are-they-and-how-they-work-eeb9a6f91966) in medium. 
+This is a cross-post of [a post I wrote](https://medium.com/@mahmutruzi/super-hydrophobic-coatings-what-are-they-and-how-they-work-eeb9a6f91966) in medium. 
 
 Have you heard of Neverwet or UltraEverDry?
 These are commercial consumer super hydrophobic coatings, and they are cheap. You can by a bottle of Neverwet spray at Amazon for just over 1 $ per ounce.
