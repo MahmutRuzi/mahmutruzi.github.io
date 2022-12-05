@@ -16,8 +16,10 @@ Commercial super hydrophobic coatings generally comes with two separate parts. T
 The top coating is the most important, and probably expensive one, whereas the base coating is essentially a layer of adhesive that holds the surface and the nanoparticles together so it does not easily come off.
 The nanoparticles used are generally silica, similar to sand and quartz, except they’re much smaller in size, only one thousands of the thickness of a human hair, and their surfaces are modified with hydrophobic molecules, molecules that ‘hate’ water.
 
-![Water droplet beads on a leaf](/mahmutruzi.github.io/assets/angela-gonzalez-garcia-s32ZRVQiJkw-unsplash-2.jpg)
-Photo by <a href="https://unsplash.com/@lamar_te?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">angela González garcia</a> on Unsplash</a>
+<img src="./images/angela-gonzalez-garcia-s32ZRVQiJkw-unsplash-2.jpg" alt="water droplet beads">
+
+#![Water droplet beads on a leaf](/mahmutruzi.github.io/assets/angela-gonzalez-garcia-s32ZRVQiJkw-unsplash-2.jpg)
+#Photo by <a href="https://unsplash.com/@lamar_te?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">angela González garcia</a> on #Unsplash</a>
 
 When the hydrophobic nanoparticles are sprayed and dried, they form a thin layer that looks smooth to the naked eye but is very coarse on microscopic scale. When a droplet of water is placed, only the ‘hill’s of the coarse surface touches the water whereas ‘pockets’ of air is trapped between the ‘valleys’ and the water droplet.
 A water droplet sitting on a super hydrophobic coated surface is supported by water-hating hydrophobic nanoparticles and ‘pockets’ of air that water does not like. Furthermore, the air, to disappointment of water, always tries to encircle.
