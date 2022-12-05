@@ -18,11 +18,12 @@ The nanoparticles used are generally silica, similar to sand and quartz, except 
 
 <div class="wp-caption aligncenter" style="width: 755px; border: 0;">
   <p>
-    <img class="aligncenter" src="http://i2.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wiki_Women%27s_Edit-a-thon-1.jpg/800px-Wiki_Women%27s_Edit-a-thon-1.jpg?resize=680%2C453&ssl=1" alt="File:Wiki Women's Edit-a-thon-1.jpg" width="745" height="496" />
+    <img class="aligncenter" src="https://en.wikipedia.org/wiki/File:Wiki_Women%27s_Edit-a-thon-1.jpg />
   </p>
   
   <p class="wp-caption-text">
-    <em>Wikipedians at an in-person edit-a-thon (the Women’s History Month edit-a-thon in 2012). However, most of the time, Wikipedians don’t get to do their work sitting right next to each other, which is why they rely extensively on trace data to coordinate render their activities accountable to each other. Photo by <a href="https://en.wikipedia.org/wiki/File:Wiki_Women%27s_Edit-a-thon-1.jpg">Matthew Roth, CC-BY-SA 3.0</a></em>
+    <em>Wikipedians at an in-person edit-a-thon (the Women’s History Month edit-a-thon in 2012). However, most of the time, Wikipedians don’t get to do their work sitting right next to each other, which is why they rely extensively on trace data to coordinate render their activities accountable to each other. Photo by <a href="https://unsplash.com/@lamar_te?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">angela González garcia</a> on <a href="https://unsplash.com/@lamar_te?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  "></a></em>
   </p>
 </div>
 
