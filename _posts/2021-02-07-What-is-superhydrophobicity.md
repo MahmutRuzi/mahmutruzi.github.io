@@ -3,7 +3,7 @@ title: 'Superhydrophobicity: What is it ?'
 date: 2022-12-05
 permalink: /posts/2021/02/2021-02-07-What-is-superhydrophobicity/ 
 ---
-This is a cross-post of [a post I wrote](https://medium.com/@mahmutruzi/super-hydrophobic-coatings-what-are-they-and-how-they-work-eeb9a6f91966) in medium. 
+This is a cross-post of [a post I wrote](https://medium.com/@mahmutruzi/super-hydrophobic-coatings-what-are-they-and-how-they-work-eeb9a6f91966) in medium. In this post I try to explain superhydrophobicity in plain langauge.  
 
 Have you heard of Neverwet or UltraEverDry?
 These are commercial consumer superhydrophobic coatings, and they are cheap. You can buy a bottle of Neverwet spray at Amazon for just over 1 $ per ounce.
