@@ -2,7 +2,7 @@
 title: "Spectral curve fitting of dielectric constants"
 collection: codes
 code_type: "Matlab"
-permalink: /codes/ 
+permalink: /codes/2016-09-Matlab-curvefitting-dielectric/ 
 institution: "La Trobe University"
 date: 2016-09-24
 excerpt: "This is a collection of codes that fits dielectric constants to Classical Damped Harmonic Oscillator (CDHO) , Voigt, Fourier series,and Triangular bases functions."
