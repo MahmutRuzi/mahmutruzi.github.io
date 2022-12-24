@@ -20,7 +20,7 @@ Now let’s open the bottle to uncover the ‘secret’ ingredients, and reveal 
   </p>
   
   <p class="wp-caption-text">
-    <em>Wikipedians at an in-person edit-a-thon (the Women’s History Month edit-a-thon in 2012). However, most of the time, Wikipedians don’t get to do their work sitting right next to each other, which is why they rely extensively on trace data to coordinate render their activities accountable to each other. Photo by <a href="https://commons.wikimedia.org/wiki/File:Drops_I.jpg">Staffan Enbom, CC-BY-SA 3.0</a></em>
+    <em>Photograph of water droplets on leaves of a plant. Photo by <a href="https://commons.wikimedia.org/wiki/File:Drops_I.jpg">Staffan Enbom, CC-BY-SA 3.0</a></em>
   </p>
 </div>
 
