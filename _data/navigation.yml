@@ -1,25 +1,25 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publications-Yayınlar"
     url: /articles/
     
-  - title: "Research"
+  - title: "Research-Araştırma Alanları"
     url: /research/
 
-  - title: "Talks"
+  - title: "Talks-Kongre"
     url: /talks/    
     
   #- title: "Expressions"
    # url: /expressions/
 
   - title: "Son yazılar"
-    url: /teaching/
+    url: /expressions/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "Codes"
-    url: /expressions/
+    url: /teaching/
   
-  - title: "Contact"
+  - title: "Contact-İletişim"
     url: /contact/
