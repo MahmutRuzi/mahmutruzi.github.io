@@ -173,8 +173,8 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
+  codes:
+    output: true
     permalink: /:collection/:path/
   articles:
     output: true
@@ -207,16 +207,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _codes
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
+      read_time: true
+      author_profile: true
+      share: true
+      comments: true
   # _articles
   - scope:
       path: ""
