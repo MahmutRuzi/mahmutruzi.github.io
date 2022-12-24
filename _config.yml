@@ -174,7 +174,7 @@ kramdown:
 # Collections
 collections:
   codes:
-    output: true
+    output: false
     permalink: /:collection/:path/
   articles:
     output: true
