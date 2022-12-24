@@ -16,11 +16,11 @@ Now let’s open the bottle to uncover the ‘secret’ ingredients, and reveal 
 
 <div class="wp-caption aligncenter" style="width: 755px; border: 0;">
   <p>
-    <img class="aligncenter" src="http://i2.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wiki_Women%27s_Edit-a-thon-1.jpg/800px-Wiki_Women%27s_Edit-a-thon-1.jpg?resize=680%2C453&ssl=1" alt="File:Wiki Women's Edit-a-thon-1.jpg" width="745" height="496" />
+    <img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Drops_I.jpg/800px-Drops_I.jpg" alt="File:Drops_I.jpg" width="745" height="496" />
   </p>
   
   <p class="wp-caption-text">
-    <em>Wikipedians at an in-person edit-a-thon (the Women’s History Month edit-a-thon in 2012). However, most of the time, Wikipedians don’t get to do their work sitting right next to each other, which is why they rely extensively on trace data to coordinate render their activities accountable to each other. Photo by <a href="https://en.wikipedia.org/wiki/File:Wiki_Women%27s_Edit-a-thon-1.jpg">Matthew Roth, CC-BY-SA 3.0</a></em>
+    <em>Wikipedians at an in-person edit-a-thon (the Women’s History Month edit-a-thon in 2012). However, most of the time, Wikipedians don’t get to do their work sitting right next to each other, which is why they rely extensively on trace data to coordinate render their activities accountable to each other. Photo by <a href="https://commons.wikimedia.org/wiki/File:Drops_I.jpg">Staffan Enbom, CC-BY-SA 3.0</a></em>
   </p>
 </div>
 
