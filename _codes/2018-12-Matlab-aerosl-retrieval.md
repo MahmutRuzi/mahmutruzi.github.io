@@ -1,6 +1,6 @@
 ---
 title: "MATLAB Functions for the Extraction of Refractive Indices from Aerosol Extinction Spectra"
-collection: codes
+collection: category
 code_type: "Matlab"
 permalink: /codes/2018-12-Matlab-aerosl-retrieval/ 
 institution: "La Trobe University"
