@@ -13,13 +13,13 @@ main:
    # url: /expressions/
 
   - title: "Son yazılar"
-    url: /son-yazılar/
+    url: /teaching/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "Codes"
-    url: /Codes/
+    url: /expressions/
   
   - title: "Contact"
     url: /contact/
