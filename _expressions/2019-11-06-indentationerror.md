@@ -1,18 +1,14 @@
 ---
 title: IndentationError
-excerpt: An avant-garde poem about Python
+excerpt: Bu çalışmada Kutadgu Bilig
 collection: expressions
 permalink: /expressions/indentationerror-poem/ 
 ---
 
-An avant-garde poem about Python written for the Poethon at the 2019 Moore-Sloan Data Science Environments (MSDSE) annual summit:
+Bu bir deneme
 
-## IndentationError by R. Stuart Geiger
+## IndentationError by Mahmut Ruzi
 <pre>
-space space space space
-space space space space
-space space space space
-tab
-tab
+Ne zaman ne mekan ne de X.
 </pre>
 
