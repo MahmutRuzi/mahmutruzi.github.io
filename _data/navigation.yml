@@ -12,8 +12,8 @@ main:
   #- title: "Expressions"
    # url: /expressions/
 
-  #- title: "Teaching"
-   # url: /teaching/
+  - title: "Son yazılar"
+    url: /son-yazılar/
         
   - title: "Blog Posts"
     url: /year-archive/
