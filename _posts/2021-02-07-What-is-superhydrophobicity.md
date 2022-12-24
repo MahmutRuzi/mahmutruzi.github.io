@@ -12,6 +12,19 @@ They are for making surfaces extremely repellent to water. By surfaces, I mean a
 To use the products, no special tools are need, you just need to spray the products according to the instruction, and wait for it to dry.Then, voila !, you got a superhydrophobic surface. It stays dry even in water, in rain, and most importantly, stays clean !
 Now let’s open the bottle to uncover the ‘secret’ ingredients, and reveal how they work.
 
+
+
+<div class="wp-caption aligncenter" style="width: 755px; border: 0;">
+  <p>
+    <img class="aligncenter" src="http://i2.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wiki_Women%27s_Edit-a-thon-1.jpg/800px-Wiki_Women%27s_Edit-a-thon-1.jpg?resize=680%2C453&ssl=1" alt="File:Wiki Women's Edit-a-thon-1.jpg" width="745" height="496" />
+  </p>
+  
+  <p class="wp-caption-text">
+    <em>Wikipedians at an in-person edit-a-thon (the Women’s History Month edit-a-thon in 2012). However, most of the time, Wikipedians don’t get to do their work sitting right next to each other, which is why they rely extensively on trace data to coordinate render their activities accountable to each other. Photo by <a href="https://en.wikipedia.org/wiki/File:Wiki_Women%27s_Edit-a-thon-1.jpg">Matthew Roth, CC-BY-SA 3.0</a></em>
+  </p>
+</div>
+
+
 Commercial superhydrophobic coatings generally comes with two separate parts. The base coating is a cocktail of adhesives and other chemicals, and the top coating is a solution of nanoparticles dispersed in a liquid that easily dries. As the name suggests, you apply the base coating first then the top coating.
 The top coating is the most important one, and probably expensive, whereas the base coating is essentially a layer of adhesive that holds the surface and the nanoparticles together so it does not easily come off.
 The nanoparticles used are generally silica, similar to sand and quartz, except they’re much smaller in size, only one thousands of the thickness of a human hair, and their surfaces are modified with hydrophobic molecules, molecules that ‘hate’ water.
