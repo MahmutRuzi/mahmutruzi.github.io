@@ -213,8 +213,8 @@ defaults:
       type: codes
     values:
       layout: single
-      read_time: true
       author_profile: true
+      read_time: true
       share: true
       comments: true
   # _articles
@@ -293,6 +293,9 @@ tag_archive:
 article_archive:
   type: liquid
   path: /articles/
+codes_archive:
+  type: liquid
+  path: /codes/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
