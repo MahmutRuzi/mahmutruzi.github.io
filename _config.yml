@@ -210,7 +210,7 @@ defaults:
   # _codes
   - scope:
       path: ""
-      type: teaching
+      type: codes
     values:
       layout: single
       read_time: true
