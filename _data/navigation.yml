@@ -9,8 +9,8 @@ main:
   - title: "Talks"
     url: /talks/    
     
-  - title: "Codes"
-    url: /codes/
+  #- title: "Codes"
+  #  url: /codes/
     
   #- title: "Expressions"
    # url: /expressions/
@@ -18,8 +18,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Son yazılar"
-    url: /yazılar/
+  #- title: "Son yazılar"
+  #  url: /yazılar/
   
   - title: "Contact"
     url: /contact/
