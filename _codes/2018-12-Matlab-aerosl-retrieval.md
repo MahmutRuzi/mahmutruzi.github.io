@@ -2,7 +2,7 @@
 title: "MATLAB Functions for the Extraction of Refractive Indices from Aerosol Extinction Spectra"
 collection: codes
 code_type: "Matlab"
-permalink: /codes/software-carpentry/ 
+permalink: /codes/ 
 institution: "La Trobe University"
 date: 2022-12-24
 excerpt: "A set of functions has been developed in MATLAB to retrieve refractive indices from aerosol particle extinction spectra with the classical damped harmonic oscillator model."
