@@ -14,7 +14,7 @@ Now let’s open the bottle to uncover the ‘secret’ ingredients, and reveal 
 
 
 
-<div class="wp-caption aligncenter" style="width: 755px; border: 0;">
+<div class="wp-caption aligncenter" style="width: 330px; border: 0;">
   <p>
     <img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Drops_I.jpg/800px-Drops_I.jpg" alt="File:Drops_I.jpg" width="320" height="240" />
   </p>
