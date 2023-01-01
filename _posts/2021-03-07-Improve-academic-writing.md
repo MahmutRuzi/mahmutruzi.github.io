@@ -21,7 +21,8 @@ Here, I like to share my experience on how I have been improving my academic wri
 
 Thus, I’m not going to tell you to do this and that. Because, most often than not, generic advice does not work. Otherwise, there would not be many ‘Self-help’ and ‘How to’ books; If they’ve worked as advertised, I would have become a billionaire, sitting on the deck of a superyacht, basking in the turquoise waters and salty breeze of the Mediterranean, out for a coffee break from an advanced physical chemistry lab located in the basement. Because, I have read many books, including one on becoming rich, and thought hard, but did not grow that rich. Sorry, [Napoleon Hill](https://www.goodreads.com/book/show/30186948-think-and-grow-rich).
 
-![](/images/3953273590_704e3899d5_m.jpg)
+![](/images/IMG_2263.JPG)
+
 Eastern Mediterranean. A small island off the coast of Fethiye, Turkey. It is as beautiful as they say, the coffee was invigorating, and the tour boat was not bad, either.
 
 
