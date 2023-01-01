@@ -15,11 +15,14 @@ Here, I like to share my experience on how I have been improving my academic wri
   </p>
   
   <p class="wp-caption-text">
-    <em>Photograph of water droplets on leaves of a plant. Photo by <a href="https://commons.wikimedia.org/wiki/File:Humanités_Numériques.JPG">Calvinius</a></em>
+    <em>Photograph of a library. Photo by <a href="https://commons.wikimedia.org/wiki/File:Humanités_Numériques.JPG">Calvinius</a></em>
   </p>
 </div>
 
 Thus, I’m not going to tell you to do this and that. Because, most often than not, generic advice does not work. Otherwise, there would not be many ‘Self-help’ and ‘How to’ books; If they’ve worked as advertised, I would have become a billionaire, sitting on the deck of a superyacht, basking in the turquoise waters and salty breeze of the Mediterranean, out for a coffee break from an advanced physical chemistry lab located in the basement. Because, I have read many books, including one on becoming rich, and thought hard, but did not grow that rich. Sorry, [Napoleon Hill](https://www.goodreads.com/book/show/30186948-think-and-grow-rich).
+
+![](/images/3953273590_704e3899d5_m.jpg)
+Eastern Mediterranean. A small island off the coast of Fethiye, Turkey. It is as beautiful as they say, the coffee was invigorating, and the tour boat was not bad, either.
 
 
 I’m sharing this perspective in the hope that you may find bits and pieces that you, an aspiring postgraduate or Ph.D. student, like to adopt and tailor to your unique situation.
