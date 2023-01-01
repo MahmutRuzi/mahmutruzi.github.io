@@ -20,7 +20,7 @@ Now let’s open the bottle to uncover the ‘secret’ ingredients, and reveal 
   </p>
   
   <p class="wp-caption-text">
-    <em>Photograph of water droplets on leaves of a plant. Photo by <a href="https://commons.wikimedia.org/wiki/File:Drops_I.jpg">Staffan Enbom, CC-BY-SA 3.0</a></em>
+    <em>Photograph of water droplets on leaves of a plant. Photo by <a href="https://commons.wikimedia.org/wiki/File:Drops_I.jpg">Staffan Enbom</a></em>
   </p>
 </div>
 
