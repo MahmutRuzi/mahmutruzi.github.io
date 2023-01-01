@@ -1,6 +1,6 @@
 ---
 title: 'Improving Academic Writing Skills: Personal Perspective as an ESL Researcher'
-date: 2021-03-07
+date: 2023-01-01
 permalink: /posts/2021/03/2021-03-07-Improve-academic-writing/ 
 ---
 This is a cross-post of [a post I wrote](https://medium.com/@mahmutruzi/improving-academic-writing-skills-personal-perspective-of-an-esl-researcher-491c60a6d8db) in medium. In this post I try to provide personal experience in improving academic writing skills as a non-native speaker of the English language.  
@@ -11,11 +11,11 @@ Here, I like to share my experience on how I have been improving my academic wri
 
 <div class="wp-caption aligncenter" style="width: 330px; border: 0;">
   <p>
-    <img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Drops_I.jpg/800px-Drops_I.jpg" alt="File:Drops_I.jpg" width="320" height="240" />
+    <img class="aligncenter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Humanités_Numériques.JPG/320px-Humanités_Numériques.JPG" alt="File:Drops_I.jpg" width="320" height="240" />
   </p>
   
   <p class="wp-caption-text">
-    <em>Photograph of water droplets on leaves of a plant. Photo by <a href="https://commons.wikimedia.org/wiki/File:Drops_I.jpg">Staffan Enbom</a></em>
+    <em>Photograph of water droplets on leaves of a plant. Photo by <a href="https://commons.wikimedia.org/wiki/File:Humanités_Numériques.JPG">Calvinius</a></em>
   </p>
 </div>
 
@@ -32,11 +32,11 @@ Luckily, my first advisor, professor David Anderson was one of the few that will
 If you’re as fortunate as I am, and had the chance to study in an English-speaking country and had a caring advisor, then you have many opportunities, such as classes, seminars, homework, and projects, through which you can improve writing skill. But most people don’t have that luxury, and even if they had, it is still challenging to write in English if you grow up speaking another language, especially if the language has totally different grammatical rules.
 So, what has been helping me to improve my writing skills?
 
-**Writing
+**Writing**
 
 By writing, I mean writing anything, like a few words or sentences. By writing something, you have started and at least have something to work with. You know what they say, beginning is half the battle. With regard to scientific research, I write down ideas that come to mind, in simple words and sentences. I also plan experiments in paper, by writing down major steps and the reason for it. When reading papers, I like to write down a summary of the paper. Besides, I talk to myself by writing from time to time, like when I got upset, could not get to back to sleep, because a neighbor woke me up at midnight to ask if I saw his cat. I write myself to sleep by writing down why I am upset.
 
-**Reading
+**Reading**
 
 One can’t become a good writer unless he/she reads. I read a lot: I read before going to bed, I read in the weekends and reading holidays. I read while waiting for a tram and again on it on during a one hour commute. I have four modes of reading. I read for fun, it could be newspapers and books, and mostly not scientific in content. I also read to stay up to date with my field of research. This is a quick mode, and it takes about 30 minutes to read a paper. In this mode, I choose the most recent papers, read the abstract and then figures one by one, and check the experimental section if some figures do not make sense. The third one is intensive and critical reading with the aim to find weak points and flawed arguments in the paper. To do that, I choose a good paper, read carefully from introduction to conclusion while also checking references. Sometimes, I had to read other papers to better understand the target paper. In the end, I write an extensive reading report that includes the main findings of the paper, unique or novel approaches that the authors used, and most importantly, highlights of weak arguments and uncorroborated claims. As you can imagine, it can take quite some time; for me, it takes two to five hours. So I read in this mode less frequently, usually a paper a month.
 
