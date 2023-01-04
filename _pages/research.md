@@ -12,7 +12,7 @@ redirect_from:
 
 **Plasmonic nanostructures for surface enhanced vibrational spectroscopy**
 
- With plasmonic nanostructures, it’s possible to quickly detect and identify minute amounts of target molecules in areas such as environmental monitoring, food quality control, medical diagnosis,and identification of pathogenic bacteria and virues. Besides getting hands ‘dirty’ in the lab to fabricate such structures, I also simulate light scattering and absorption properties of the structures to shed light on the measured spectra. For such simulations, I regularly use finite difference time domain (FDTD), the transfer matrix method (TMM), the rigorously coupled wave analysis (RCWA) approach. For some complex simulations, I use high performance computing (HPC) infrastructures.
+With plasmonic nanostructures, it’s possible to enhance the vibrational signal of molecules to a few million times. Hence,it becomes possible to quickly detect and identify minute amounts of target molecules in areas such as environmental monitoring, food quality control, medical diagnosis,and identification of pathogenic bacteria and virues. Besides getting hands ‘dirty’ in the lab to fabricate such structures, I also simulate light scattering and absorption properties of the structures to shed light on the measured spectra. For such simulations, I regularly use finite difference time domain (FDTD), the transfer matrix method (TMM), the rigorously coupled wave analysis (RCWA) approach. For some complex simulations, I use high performance computing (HPC) infrastructures.
 
 **Superwetting surfaces and coatings**
 
@@ -20,7 +20,7 @@ Another research area I recently find my footing on is superhydrophobic surfaces
 
 **Codes**
 
-Some of my previous and current work heavily involves simulation, for which I generally use open-source packages or write my own codes. I am experienced in Matlab and taking up python. Some matlab codes are available in matlabcentral website. Another one is deposited at the University of Bern, Switzerland. Link:  https://boris.unibe.ch/146948/ .It's a series of matlab Functions for the Extraction of Refractive Indices from Aerosol Extinction Spectra, using Mie theory. 
+Some of my previous and current work heavily involves simulation, for which I generally use open-source packages or write my own codes. I am experienced in Matlab and taking up python. Some matlab codes are available in matlabcentral website. Another one is deposited at the [University of Bern](https://boris.unibe.ch/146948/), Switzerland. It's a series of matlab functions for the extraction of refractive indices from aerosol extinction spectra, using Mie theory. 
 
-Other codes are available in github, especially here https://github.com/MahmutRuzi/photonics-sim-examples. 
+Other codes are available in github, especially [here](https://github.com/MahmutRuzi/photonics-sim-examples). 
 
