@@ -11,6 +11,7 @@ redirect_from:
 {% include base_path %}
 
 Welcome to my personal website! 
+
 My name is Mahmut Ruzi and I am a research fellow at Erciyes University's [Nanotechnology Research and Application Center (ERNAM)](https://ernam.erciyes.edu.tr), working in the lab of [Prof. M. Serdar Onses](http://www.onseslab.com). 
 ![20220713_ernam](https://user-images.githubusercontent.com/70721965/213926886-dd5ebe17-5b3f-47c7-a676-84c03eaafe92.jpg)
 The side view of ERNAM building. Taken by the author on a typical summer day. 
