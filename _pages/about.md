@@ -25,8 +25,7 @@ In addition to working on plasmonic nanostructures,  I also supervise students o
 
 
 # News
--  New work about the identification of five different bacterial species using SERS and ML is published in [ACS Applied Materials and Interfaces](https://pubs.acs.org/doi/10.1021/acsami.2c22003)
--  I attended the 13th [Chemical Physics Congress](https://lnkd.in/deWeuSTg) in Elazig, Turkey. 
--  Our work on the machine-learning assisted classification of pesticides based on their SERS spectra obtained on paper decorated with silver nanoparticles   is published in [ACS Applied Nano Materials](https://doi.org/10.1021/acsanm.2c02897)
--  I attended & gave a talk at the [16th Nanoscience & Nanotechnology Conference](https://nanotr.org/en/) in METU, Ankara, Turkey. 
+-  Our new work about self-healing superhydrophobic coating is published in [Langmuir](https://doi.org/10.1021/acs.langmuir.2c02795).
+-  New work about the identification of five different bacterial species using SERS and ML is published in [ACS Applied Materials and Interfaces](https://pubs.acs.org/doi/10.1021/acsami.2c22003).
+-  I attended the 13th [Chemical Physics Congress](https://lnkd.in/deWeuSTg) in Elazig, Turkey.  
 
