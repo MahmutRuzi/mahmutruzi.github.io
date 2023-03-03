@@ -3,7 +3,7 @@ title: "Self-Healing of Biocompatible Superhydrophobic Coatings: The Interplay o
 category: articles
 permalink: /articles/2023-02-Langmuir/
 excerpt: "This study report a fluorine-free and biocompatible superhydrophobic coating that can be thermally healed after abrasion. The coating is composed of silica nanoparticles and carnauba wax, and the self-healing is based on surface enrichment of wax in analogy to the wax secretion in plant leaves. The coating not only exhibits fast self-healing, just in 1 min under moderate heating, but also displays increased water repellency and thermal stability after healing."
-venue: "ACS Langmuir
+venue: "ACS Langmuir"
 date: 2023-02-22
 
 ---
