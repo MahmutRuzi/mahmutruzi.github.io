@@ -1,14 +1,14 @@
 ---
-title: "Machine Learning-Assisted Pesticide Detection on a Flexible Surface-Enhanced Raman Scattering Substrate Prepared by Silver Nanoparticles"
+title: "Self-Healing of Biocompatible Superhydrophobic Coatings: The Interplay of the Size and Loading of Particles"
 category: articles
-permalink: /articles/2022-09-ML-SERS-pesticide-detection/
-excerpt: "This study reports eco-friendly preparation of the surface-enhanced Raman scattering (SERS) substrate for machine learning-assisted detection of pesticides in water. The ML-mediated detection of harmful pesticides on a versatile, green, and inexpensive SERS platform appears to be promising for environmental applications."
-venue: "ACS Applied Nanomaterials"
-date: 2021-11-05
+permalink: /articles/2023-02-Langmuir/
+excerpt: "This study report a fluorine-free and biocompatible superhydrophobic coating that can be thermally healed after abrasion. The coating is composed of silica nanoparticles and carnauba wax, and the self-healing is based on surface enrichment of wax in analogy to the wax secretion in plant leaves. The coating not only exhibits fast self-healing, just in 1 min under moderate heating, but also displays increased water repellency and thermal stability after healing."
+venue: "ACS Langmuir
+date: 2023-02-22
 
 ---
 
-<a href="https://doi.org/10.1021/acsanm.2c02897">Read full article here</a>.
+<a href="https://doi.org/10.1021/acs.langmuir.2c02795">Read full article here</a>.
 
-Abstract: Access to clean water is a pressing challenge affecting millions of lives and the aquatic body of the Earth. Sensitive detection of pollutants such as pesticides is particularly important to address this challenge. This study reports eco-friendly preparation of the surface-enhanced Raman scattering (SERS) substrate for machine learning-assisted detection of pesticides in water. The proposed SERS platform was prepared on a copy paper by reducing a silver salt using the extract of a natural plant, Cedrus libani. The fabricated SERS platform was characterized in detail using scanning electron microscopy, energy-dispersive X-ray spectroscopy, X-ray diffraction, and X-ray photoelectron spectroscopy. The high-density formation of silver nanoparticles with an average diameter of 41 nm on the surface of the paper enabled detection of analytes with a nanomolar level sensitivity. This SERS capability was used to collect Raman signals of four different pesticides in water: myclobutanil, phosmet, thiram, and abamectin. Raman spectra of the pesticides are highly complex, challenging accurate determination of the pesticide type. To overcome this challenge and distinguish pesticides, machine learning (ML) approach was used. The ML-mediated detection of harmful pesticides on a versatile, green, and inexpensive SERS platform appears to be promising for environmental applications.
+Abstract: The broad application potential of superhydrophobic coatings is limited by the usage of environment-threatening materials and poor durability. The nature-inspired design and fabrication of self-healing coatings is a promising approach for addressing these issues. In this study, we report a fluorine-free and biocompatible superhydrophobic coating that can be thermally healed after abrasion. The coating is composed of silica nanoparticles and carnauba wax, and the self-healing is based on surface enrichment of wax in analogy to the wax secretion in plant leaves. The coating not only exhibits fast self-healing, just in 1 min under moderate heating, but also displays increased water repellency and thermal stability after healing. The rapid self-healing ability of the coating is attributed to the relatively low melting point of carnauba wax and its migration to the surface of the hydrophilic silica nanoparticles. The dependence of self-healing on the size and loading of particles provides insights into the process. Furthermore, the coating exhibits high levels of biocompatibility where the viability of fibroblast L929 cells was ∼90%. The presented approach and insights provide valuable guidelines in the design and fabrication of self-healing superhydrophobic coatings.
 
