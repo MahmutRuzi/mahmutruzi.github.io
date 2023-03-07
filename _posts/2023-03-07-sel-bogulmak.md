@@ -1,7 +1,7 @@
 ---
 title: 'A story in progress'
 date: 2023-01-01
-permalink: /posts/2021/03/2021-03-07-Improve-academic-writing/ 
+permalink: /posts/2023-03-07-sel-bogulmak.md/ 
 ---
 
 Amir was sitting on a stool, arms folded together across the chest, shivering. It was’t a good day for him as he had only made 6 TL so far. Even though it was July, Istanbul was misty and cold, and the rain had weakened to drizzle, but the wind had picked up, slapping the rain against his face. Amir stood up and folded the torn dark brown towel pieces, then put them along with the brushes and tubes of shoe polishes in the rusty wooden box. He closed and locked the box, folded the canvas stool, picked it up with his left hand, and carried the wooden box on his right hand. He walked towards Inceyol road to avoid the rain and wind. Here, all the shops and the restaurant had porches extending well into the sidewalk. He walked slowly and carefully, trying not to slip or to step on the broken beer bottles. A dog followed him, as it had been ever since the one cold winter night when Amir gave it a piece of bread. Although the dog sometimes walked off with other stray dogs, it always came back to him, usually after a few hours. 
