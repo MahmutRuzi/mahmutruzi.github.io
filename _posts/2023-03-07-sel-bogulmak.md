@@ -1,6 +1,6 @@
 ---
 title: 'A story in progress'
-date: 2023-01-01
+date: 2023-03-07
 permalink: /posts/2023-03-07-sel-bogulmak.md/ 
 ---
 The person of private virtuousness “shut his mouth and his eyes to the injustice around him,” limiting his public activities and focusing his energies on his circle of family and friends—raising his children and tending his own garden—and professing a lack of interest in what he will no doubt call “politics.” -Dietrich Bonhoeffer, from [The Great Masquerade of Evil](https://ravenmagazine.org/magazine/the-great-masquerade-of-evil/) by Kyla Ebels- Duggan, the Raven Magazine, Fall 2021, accessed on March 7th 2023.
