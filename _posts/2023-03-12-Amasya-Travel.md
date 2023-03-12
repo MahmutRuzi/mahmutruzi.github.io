@@ -9,7 +9,7 @@ Nestled 340 kilometers east of Ankara on the road to Samsun lies Amasya, a small
 ![](/images/Amasya_kizilirmak1.png)
 Amasya, hiding below the Harşena hills split by the Yeşilirmak River. View taken from Kizlar Sarayi Cafe.
 
-Getting to Amasya is easy, with many bus companies offering rides from Aşti in Ankara. Depending on the bus company you choose, a one-way ticket costs around 50 TL. During my visit, I opted for the Miss Amasya bus, which was incredibly comfortable and nice. Another great option is Metro. The bus journey from Aşti takes around five to six hours, and typically includes a rest stop of about 30 minutes in Sungurlu before arriving at Amasya Otogar, which is a bit outside the city center. But don't worry, most bus companies provide service buses to take their customers to the heart of the city. 
+Getting to Amasya is easy, with many bus companies offering rides from Aşti in Ankara. Depending on the bus company you choose, a one-way ticket costs around 50 TL (2018,1 USD = 5 TL). During my visit, I opted for the Miss Amasya bus, which was incredibly comfortable and nice. Another great option is Metro. The bus journey from Aşti takes around six hours, and typically includes a rest stop of about 30 minutes in Sungurlu before arriving at Amasya Otogar, which is a bit outside the city center. But don't worry, most bus companies provide free service to take their customers to the heart of the city. 
 
 Nestled between the Harşena hills and the Yeşilirmak River, Amasya is a stunning destination to visit. On the west bank of the river, you'll find an array of well-preserved historical Ottoman-style houses that have been repurposed into hotels, restaurants, and cafes. I had the pleasure of visiting one of the cafes and found it to be quite good. However, it's worth noting that the prices tend to be a bit higher than what you'll find on the east bank of the river. Nonetheless, the charming atmosphere and picturesque views make it well worth the visit.
 ![](/images/Amasya-OsmanliEv&Irmak.png)
@@ -27,6 +27,7 @@ Despite its small size, Amasya has a surprising number of museums, and one of th
 ![](/images/Amasya-mumya1.png)
 Cumudar, the governor of Amasya at that time, believed to be drowned to death by Mongols in 1297. The horror expression on his face is still there, even after 700 years!
 
+There is one place that I wished visited in Amasya, the Lover's Museum, or Ferhat ile Şirin Aşıklar Müzesi. The museum is associated with a fairytale. 
 As a Happy Ending: the night scenery of Amasya is stunning as well.
 ![](/images/Amasya_gece_kopru1.png)
 
