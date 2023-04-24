@@ -25,6 +25,7 @@ In addition to working on plasmonic nanostructures,  I also supervise students o
 
 
 # News
+- New paper about solvent-free and ultra-rapid preparation of superhydrophobic coatings from two relatively unreactive materials silicone oil and silica     NPs is published in [Advanced Materials Interfaces](https://doi.org/10.1002/admi.202300069)
 -  Our new work about self-healing superhydrophobic coating is published in [Langmuir](https://doi.org/10.1021/acs.langmuir.2c02795).
 -  New work about the identification of five different bacterial species using SERS and ML is published in [ACS Applied Materials and Interfaces](https://pubs.acs.org/doi/10.1021/acsami.2c22003).
 -  I attended the 13th [Chemical Physics Congress](https://lnkd.in/deWeuSTg) in Elazig, Turkey.  
