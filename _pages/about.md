@@ -14,7 +14,7 @@ Welcome to my personal website!
 
 My name is Mahmut Ruzi and I am a research fellow at Erciyes University's [Nanotechnology Research and Application Center (ERNAM)](https://ernam.erciyes.edu.tr), working in the lab of [Prof. M. Serdar Onses](http://www.onseslab.com). 
 
-![20220713_ernam](https://user-images.githubusercontent.com/70721965/213926886-dd5ebe17-5b3f-47c7-a676-84c03eaafe92.jpg)
+![ernam-low](https://user-images.githubusercontent.com/70721965/213926886-dd5ebe17-5b3f-47c7-a676-84c03eaafe92.jpg)
 The side view of ERNAM building. Taken by the author on a typical summer day. 
 
 I am currently working on the fabrication, simulation, and characterization of plasmonic nanostructures for surface enhanced vibrational spectroscopy. Before coming to Turkey, I studied the formation of molecular clusters and ices relevant to Earth's and other planets atmosphere using infrastructures at the Australian Synchrotron, under the supervision of Dr. Evan Robertson from La Trobe University. My Ph.D thesis can be accessed from La Trobe University's library [here](http://hdl.handle.net/1959.9/566195). Before that, I studied molecules by trapping them in molecular solid hydrogen at very low temperatures (2K) at the University of Wyoming under the supervision of Prof. David Anderson. 
