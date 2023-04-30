@@ -10,7 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
-My research focuses on two main areas: plasmonic nanostructures for surface enhanced vibrational spectroscopy and superwetting surfaces and coatings. 
+My research focuses on two main areas:
+
+- Plasmonic nanostructures for surface enhanced vibrational spectroscopy
+- Superwetting surfaces and coatings
 
 **Plasmonic nanostructures for surface enhanced vibrational spectroscopy**
 
