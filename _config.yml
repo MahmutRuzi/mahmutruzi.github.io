@@ -13,6 +13,7 @@ name                     : &name "Mahmut Ruzi"
 description              : &description "Chemist & Spectroscopist"
 url                      : "https://mahmutruzi.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
+logo                     : "site-logo.png"
 repository               : "MahmutRuzi/mahmutruzi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
