@@ -1,14 +1,14 @@
 ---
-title: "Disintegration and Machine-Learning-Assisted Identification of Bacteria on Antimicrobial and Plasmonic Ag–CuxO Nanostructures"
+title: "Millimeter wave spectroscopy of propynal isotopologues and structure determination"
 category: articles
-permalink: /articles/2023-02-ML-SERS-bacteria-detection/
-excerpt: "This study presents the formation of antimicrobial and plasmonic surfaces based on Ag–CuxO nanostructures using green synthesis methods and low-cost paper substrates. The fabricated nanostructured surfaces exhibit excellent bactericidal efficiency and high surface-enhanced Raman scattering (SERS) activity."
-venue: "ACS Applied Materials & Interfaces"
-date: 2023-02-21
+permalink: /articles/2023-05-propynal_THz&microwave_JMS/
+excerpt: "Rotational transitions of propynal (HCCCHO) have been measured in the 150–900 GHz region by millimeter wave spectroscopy and in the far infrared region by high resolution FTIR spectroscopy using a synchrotron source."
+venue: "Journal of Molecular Spectroscopy"
+date: 2023-05-19
 
 ---
 
-<a href="https://doi.org/10.1021/acsami.2c22003">Read full article here</a>.
+<a href="https://doi.org/10.1016/j.jms.2023.111786">Read full article here</a>.
 
-Abstract: Bacteria cause many common infections and are the culprit of many outbreaks throughout history that have led to the loss of millions of lives. Contamination of inanimate surfaces in clinics, the food chain, and the environment poses a significant threat to humanity, with the increase in antimicrobial resistance exacerbating the issue. Two key strategies to address this issue are antibacterial coatings and effective detection of bacterial contamination. In this study, we present the formation of antimicrobial and plasmonic surfaces based on Ag–CuxO nanostructures using green synthesis methods and low-cost paper substrates. The fabricated nanostructured surfaces exhibit excellent bactericidal efficiency and high surface-enhanced Raman scattering (SERS) activity. The CuxO ensures outstanding and rapid antibacterial activity within 30 min, with a rate of >99.99% against typical Gram-negative Escherichia coli and Gram-positive Staphylococcus aureus bacteria. The plasmonic Ag nanoparticles facilitate the electromagnetic enhancement of Raman scattering and enables rapid, label-free, and sensitive identification of bacteria at a concentration as low as 103 cfu/mL. The detection of different strains at this low concentration is attributed to the leaching of the intracellular components of the bacteria caused by the nanostructures. Additionally, SERS is coupled with machine learning algorithms for the automated identification of bacteria with an accuracy that exceeds 96%. The proposed strategy achieves effective prevention of bacterial contamination and accurate identification of the bacteria on the same material platform by using sustainable and low-cost materials.
+Abstract: Rotational transitions of propynal (HCCCHO) have been measured in the 150–900 GHz region by millimeter wave spectroscopy and in the far infrared region by high resolution FTIR spectroscopy using a synchrotron source. For the parent isotopologue, assignment of MMW transitions up to very high quantum numbers (J = 100, Ka = 25) reveals evidence of extensive perturbations in the ground vibrational state due to Fermi-asymmetry resonance with an excited vibrational state. A fit to nearly 3000 ground state transitions yields effective constants that are suitable for describing relatively unperturbed rotational levels up to Ka = 13. Over 1000 transitions were assigned and fitted for each singly substituted 13C species and nearly 400 transitions for the 18O variant. Re-analysis of literature data on deuterated species, aided by centrifugal distortion constants from hybrid density functional theory calculations at the B2PLYP/aug-cc-pVTZ level, provides a further set of rotational constants. This allows determination of a Rm(2) structure for propynal with the following geometry: r(C≡C) = 1.2066(15), r(Csingle bondC) = 1.4486(14), r(CO) = 1.2087(10), r(C­H ald) = 1.1069(8), r(C­H acet) = 1.0578(13), θ(CCC) = 176.71(22), θ(OCC) = 123.23(7), θ(HCC ald) = 114.43(31), θ(HCC acet) = 178.45(16). A new Rs structure was also derived.
 
