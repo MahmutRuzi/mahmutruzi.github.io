@@ -6,6 +6,7 @@ excerpt: "Rotational transitions of propynal (HCCCHO) have been measured in the 
 venue: "Journal of Molecular Spectroscopy"
 date: 2023-05-19
 ![](/images/1-s2.0-S0022285223000516-ga1_lrg.jpg)
+
 ---
 
 <a href="https://doi.org/10.1016/j.jms.2023.111786">Read full article here</a>.
