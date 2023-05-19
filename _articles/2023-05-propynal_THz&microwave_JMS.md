@@ -5,10 +5,10 @@ permalink: /articles/2023-05-propynal_THz&microwave_JMS/
 excerpt: "Rotational transitions of propynal (HCCCHO) have been measured in the 150–900 GHz region by millimeter wave spectroscopy and in the far infrared region by high resolution FTIR spectroscopy using a synchrotron source."
 venue: "Journal of Molecular Spectroscopy"
 date: 2023-05-19
-![](/images/1-s2.0-S0022285223000516-ga1_lrg.jpg)
 
 ---
 
+![](/images/1-s2.0-S0022285223000516-ga1_lrg.jpg)
 <a href="https://doi.org/10.1016/j.jms.2023.111786">Read full article here</a>.
 
 
