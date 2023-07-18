@@ -25,8 +25,8 @@ In addition to working on plasmonic nanostructures,  I also supervise students o
 
 
 # News
+
+- I attended the [19th Asian Chemical Congress](https://acc2023.org/program/) in Istanbul and presentted my work on the optimization of plasmonic nanostructures for surface enhanced IR absorption. 
 - a new paper about structural determination of propynal using THz and microwave spectroscopy, aided by theoretical calculations, has just been published in [Journal of Molecular Spectroscopy](https://doi.org/10.1016/j.jms.2023.111786)
 - New paper about solvent-free and ultra-rapid preparation of superhydrophobic coatings from two relatively unreactive materials silicone oil and silica     NPs is published in [Advanced Materials Interfaces](https://doi.org/10.1002/admi.202300069)
--  Our new work about self-healing superhydrophobic coating is published in [Langmuir](https://doi.org/10.1021/acs.langmuir.2c02795).
--  New work about the identification of five different bacterial species using SERS and ML is published in [ACS Applied Materials and Interfaces](https://pubs.acs.org/doi/10.1021/acsami.2c22003).
 
