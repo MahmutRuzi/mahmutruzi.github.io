@@ -1,5 +1,11 @@
+---
+title: 'Fundamental research is not superior to engineering'
+date: 2023-07-30
+permalink: /posts/Modality of Research_v2/ 
+---
 
-Title: Fundamental research is not superior to engineering
+
+
 
 Two weeks ago, I had the opportunity to attend a conference where I gave a talk and listened to presentation of chemists and material scientists from around the world. Among the speakers, two stood out and left a lasting impression. Professor Metin Sitti from MPI discussed the biomedical application of microrobots, while Professor Kuzunari Domen from the University of Tokyo presented work on catalytic water splitting. Despite their focus on applied and engineering directions, the details involved in these research topics revealed an inseparable connection with fundamental research. 
 
