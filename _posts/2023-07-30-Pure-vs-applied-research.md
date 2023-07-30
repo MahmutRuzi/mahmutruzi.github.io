@@ -7,7 +7,7 @@ Two weeks ago, I had the opportunity to attend a conference where I gave a talk 
 
 
 ![](/images/Metin-Sitti-talk.jpeg)
-Amasya, hiding below the Harşena hills split by the Yeşilirmak River. View taken from Kizlar Sarayi Cafe.
+Prof. Metin Sitti from MPI Germany is delivering an invited talk at the Istanbul Tecknical University on July 15th 2023.
 
 
 You see, as a young student, I used to view science and research through a narrow lens, dividing them into two distinct categories: basic (pure) research and applied research (engineering).  In my mind, basic research, driven by curiosity and the pursuit of understanding "Why," held a sacred position and I considered it to be superior. Scientists like Faraday and Einstein were like over-earthly saints, epitomizing the essence of scientific inquiry. On the other hand, engineering and applied research seemed less glamorous and were often overshadowed. I mostly blame this on science textbooks. In retrospect, I guess this skewed perception influenced my research direction, leading me to embrace the path of basic research during my master's and Ph.D. studies. 
