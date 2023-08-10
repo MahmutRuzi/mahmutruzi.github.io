@@ -26,7 +26,7 @@ In addition to working on plasmonic nanostructures,  I also supervise students o
 
 # News
 ## August 10th, 2023
-- Latest work just published in [ACS Applied Nano Materials](https://doi.org/10.1021/acsanm.3c02489). Is solvent necessary in chemical reactions ? No necessarily! In this paper, we demonstrated hydrophobic modification of silica nanoparticles without using any solvents! The key is mechanochemistry. Read more for details. 
+- Latest work just published in [ACS Applied Nano Materials](https://doi.org/10.1021/acsanm.3c02489). Is solvent necessary in chemical reactions ? No necessarily! In this paper, we demonstrated hydrophobic modification of silica nanoparticles without using any solvents! The key is mechanochemistry. Read more for details.  
  ![](/images/Alkysilane-silica-milling-2023-08-10.png) 
 ## July 15th, 2023
 - I attended the [19th Asian Chemical Congress](https://acc2023.org/program/) in Istanbul and presentted my work on the optimization of plasmonic nanostructures for surface enhanced IR absorption.
