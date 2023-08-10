@@ -3,13 +3,13 @@ title: 'The beautiful Amasya'
 date: 2023-03-12
 permalink: /posts/2023-03-12-Amasya-Travel/ 
 ---
-Nestled 340 kilometers east of Ankara on the road to Samsun lies Amasya, a small city that remains surprisingly unknown, even to Turks. However, this small gem is a true hidden treasure, and perhaps its obscurity is a good thing in some sense. In fact, it's the prettiest and cleanest city I've ever seen in Turkey! 
+Nestled 340 kilometers east of Ankara on the road to Samsun lies Amasya, a small city that remains surprisingly unknown, even to the Turks! 
 
 
 ![](/images/Amasya_kizilirmak1.png)
 Amasya, hiding below the Harşena hills split by the Yeşilirmak River. View taken from Kizlar Sarayi Cafe.
 
-Getting to Amasya is easy, with many bus companies offering rides from Aşti in Ankara. Depending on the bus company you choose, a one-way ticket costs around 50 TL (2018,1 USD = 5 TL). During my visit, I opted for the Miss Amasya bus, which was incredibly comfortable and nice. Another great option is Metro. The bus journey from Aşti takes around six hours, and typically includes a rest stop of about 30 minutes in Sungurlu before arriving at Amasya Otogar, which is a bit outside the city center. But don't worry, most bus companies provide free service to take their customers to the heart of the city. 
+Amasya is a small gem,a true hidden treasure, and perhaps its obscurity is a good thing in some sense. In fact, it's one of the prettiest city I've ever seen in Turkey! Getting to Amasya is easy, with many bus companies offering rides from Aşti in Ankara. Depending on the bus company you choose, a one-way ticket costs around 50 TL (2018,1 USD = 5 TL). During my visit, I opted for the Miss Amasya bus, which was incredibly comfortable and nice. Another great option is Metro. The bus journey from Aşti takes around six hours, and typically includes a rest stop of about 30 minutes in Sungurlu before arriving at Amasya Otogar, which is a bit outside the city center. But don't worry, most bus companies provide free service to take their customers to the heart of the city. 
 
 Nestled between the Harşena hills and the Yeşilirmak River, Amasya is a stunning destination to visit. On the west bank of the river, you'll find an array of well-preserved historical Ottoman-style houses that have been repurposed into hotels, restaurants, and cafes. I had the pleasure of visiting one of the cafes and found it to be quite good. However, it's worth noting that the prices tend to be a bit higher than what you'll find on the east bank of the river. Nonetheless, the charming atmosphere and picturesque views make it well worth the visit.
 ![](/images/Amasya-OsmanliEv&Irmak.png)
