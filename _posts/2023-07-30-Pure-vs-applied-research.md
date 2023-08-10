@@ -3,6 +3,8 @@ title: 'Fundamental research is not superior to engineering'
 date: 2023-07-30
 permalink: /posts/2023-07-30-Pure-vs-applied-research/ 
 ---
+A scientist's thoughts and reflections on the importance of applied research & engineering, and my journey of how I came to that realization.
+
 Two weeks ago, I had the opportunity to attend a conference where I gave a talk and listened to presentation of chemists and material scientists from around the world. Among the speakers, two stood out and left a lasting impression. Professor [Metin Sitti](https://scholar.google.com.tr/citations?user=YU4Ce_MAAAAJ&hl=en) from MPI discussed the biomedical application of microrobots, while Professor [Kuzunari Domen](https://pubs.acs.org/doi/10.1021/acscatal.3c00951) from the University of Tokyo presented work on catalytic water splitting. Despite their focus on applied and engineering directions, the details involved in these research topics revealed an inseparable connection with fundamental research.
 
 
