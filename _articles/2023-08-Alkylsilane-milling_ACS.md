@@ -4,7 +4,7 @@ category: articles
 permalink: /articles/2023-08-Alkylsilane-milling_ACS/
 excerpt: "This study demonstrates a rapid and eco-friendly approach to preparing superhydrophobic surfaces by chemically grafting alkylsilane molecules onto silica nanoparticles using a mechanochemical process."
 venue: "ACS Applied Nano Materials"
-date: 2023-08-113
+date: 2023-08-13
 
 ---
 
