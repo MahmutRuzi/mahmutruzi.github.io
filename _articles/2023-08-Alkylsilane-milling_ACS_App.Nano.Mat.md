@@ -1,18 +1,18 @@
 ---
-title: "Millimeter wave spectroscopy of propynal isotopologues and structure determination"
+title: "Mechanochemical Coupling of Alkylsilanes to Nanoparticles for Solvent-Free and Rapid Fabrication of Superhydrophobic Materials"
 category: articles
-permalink: /articles/2023-05-propynal_THz&microwave_JMS/
-excerpt: "Rotational transitions of propynal (HCCCHO) have been measured in the 150–900 GHz region by millimeter wave spectroscopy and in the far infrared region by high resolution FTIR spectroscopy using a synchrotron source."
-venue: "Journal of Molecular Spectroscopy"
-date: 2023-05-19
+permalink: /articles/2023-08-Alkylsilane-milling_ACS_App.Nano.Mat/
+excerpt: "This study demonstrates a rapid and eco-friendly approach to preparing superhydrophobic surfaces by chemically grafting alkylsilane molecules onto silica nanoparticles using a mechanochemical process."
+venue: "ACS Applied Nano Materials"
+date: 2023-08-113
 
 ---
 
-<a href="https://doi.org/10.1016/j.jms.2023.111786">Read full article here</a>.
+<a href="https://doi.org/10.1021/acsanm.3c02489">Read full article here</a>.
 
 
 ![](/images/1-s2.0-S0022285223000516-ga1_lrg.jpg)
 
 
-Abstract: Rotational transitions of propynal (HCCCHO) have been measured in the 150–900 GHz region by millimeter wave spectroscopy and in the far infrared region by high resolution FTIR spectroscopy using a synchrotron source. For the parent isotopologue, assignment of MMW transitions up to very high quantum numbers (J = 100, Ka = 25) reveals evidence of extensive perturbations in the ground vibrational state due to Fermi-asymmetry resonance with an excited vibrational state. A fit to nearly 3000 ground state transitions yields effective constants that are suitable for describing relatively unperturbed rotational levels up to Ka = 13. Over 1000 transitions were assigned and fitted for each singly substituted 13C species and nearly 400 transitions for the 18O variant. Re-analysis of literature data on deuterated species, aided by centrifugal distortion constants from hybrid density functional theory calculations at the B2PLYP/aug-cc-pVTZ level, provides a further set of rotational constants. This allows determination of a Rm(2) structure for propynal with the following geometry: r(C≡C) = 1.2066(15), r(C-C) = 1.4486(14), r(CO) = 1.2087(10), r(C-H) = 1.1069(8), r(C-H) = 1.0578(13), θ(CCC) = 176.71(22), θ(OCC) = 123.23(7), θ(HCC) = 114.43(31), θ(HCC) = 178.45(16). A new Rs structure was also derived. 
+Abstract: Excellent repellency toward water is one of the main characteristics of superhydrophobic coatings that endow application potential in various areas. However, the complex and time-consuming process involved in preparing universally applicable superhydrophobic coatings, especially the step that involves modifying intrinsically hydrophilic inorganic oxide nanoparticles with hydrophobic alkylsilanes, limits their practical applications. This study demonstrates a rapid and eco-friendly approach to preparing superhydrophobic surfaces by chemically grafting alkylsilane molecules onto silica nanoparticles using a mechanochemical process. The key advantages of this approach are (i) rapid process with preparation times that are orders of magnitude shorter than those of conventional methods, (ii) zero-solvent usage, and (iii) overcoming the need for tedious separation and drying steps. The resultant surface exhibits superhydrophobicity with a water contact angle of 172° and a sliding angle of 1°. A monolith prepared by compressing the powder exhibits superhydrophobicity, durability, and antifouling ability against urine. The superhydrophobic surface inhibits the growth of two of the most common pathogenic bacteria. The bacterial growth was reduced by 107.07 for Escherichia coli and 105.78 for Staphylococcus aureus. The proposed approach is practical, swift, and cost-effective, making it a scalable and eco-friendly technique for the solvent-free preparation of superhydrophobic surfaces.
 
