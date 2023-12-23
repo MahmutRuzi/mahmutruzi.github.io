@@ -6,11 +6,11 @@ permalink: /posts/2023-12-23-issues-in-academic-publishing/
 If you work in academia or know someone in the circle, you probably have heard of the phrase “Publish or perish”. This phrase, once might be told as joke, has now became a mantra within the academic industry. The heavy emphasis on publication has been causing serious issues. In this post, I will try to address these issues and provide a solution. 
 
 
-"The men of my own stock,
-They may do ill or well,
-But they tell the lies I am wanted to,
-They are used to the lies I tell;
-And we do not need interpreters
+"The men of my own stock,  
+They may do ill or well,  
+But they tell the lies I am wanted to,  
+They are used to the lies I tell;  
+And we do not need interpreters  
 When we go to buy or sell."      
 
 The Stranger,  by Rudyard Kipling
