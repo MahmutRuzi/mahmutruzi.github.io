@@ -26,10 +26,8 @@ Like many of you with an email account, I regularly received spam emails, a tren
 
 Attached is a screenshot of such an email. It’s an email from an editor at the journal “Frontier in Astronomy.” Yes, you read it correctly- it is not a joke ! A journal in astronomy is asking me, a chemist with zero experience in the field, to become an editor! While this email has the hallmark of scam/phishing, it’s noteworthy that the sender is a real editor, with a Ph.D. degree, I might add, of an academic publishing company based in Switzerland.
 
+![](/images/email_screenshot1.jpg)
 
-
-![](/images/sailing-by-Mustafa-Orhan.jpg)
-Oil painting on canvas, by Mustafa Orhan, March 2023 Kırklareli, Turkey. 
 
 Regretfully, this phishing email is just one example indicative of the deteriorating quality issues in academic publishing. Surprisingly, or should I say because of them, academic publishing companies are thriving (Reference 1 and 2), just like the fungi did in the TV series The Last of US. The symptoms of this issue are multifaceted, including the diminishing significance of published papers, an uptick in academic fraud through manipulation of data and peer-review system. There’s also a growing burden on researchers who are called upon both as reviewers to assess the quality of submitted articles and as readers struggling to identify relevant, high quality papers amid a sea of ordinary ones (Reference 3).
 
