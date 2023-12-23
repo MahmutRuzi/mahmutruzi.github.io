@@ -16,6 +16,8 @@ When we go to buy or sell."
 *The Stranger*,  by Rudyard Kipling
 
 
+
+
 Like many of you with an email account, I regularly received spam emails, a trend that has been consistent since I opened my first account about two decades ago. Over the years, the nature of the unsolicited emails evolved, both in frequency and content. Initially, I would receive one or two phishing emails each day, often claiming to be from a Nigerian princes seeking my bank information for a purported inheritance transfer and share. Nowadays, the majority of such spam emails come from academic conferences and publishers, often inviting me to attend their conferences, contribute to book chapters, serve as an editor or submit articles to their, I quote, “honorable journals.”
 
 Attached is a screenshot of such an email. It’s an email from an editor at the journal “Frontier in Astronomy.” Yes, you read it correctly- it is not a joke ! A journal in astronomy is asking me, a chemist with zero experience in the field, to become an editor! While this email has the hallmark of scam/phishing, it’s noteworthy that the sender is a real editor, with a Ph.D. degree, I might add, of an academic publishing company based in Switzerland.
