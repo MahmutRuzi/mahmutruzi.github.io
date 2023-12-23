@@ -95,25 +95,25 @@ The Bilgikut system I propose represents a step towards revolutionizing academic
  
 # References:
 
-Reference 1: Stephen Buranyi, Is the staggeringly profitable business of scientific publishing bad for science? The Guardian, published on 27 June 2017; accessed on 23rd December 2023.
+[Reference 1](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science): Stephen Buranyi, Is the staggeringly profitable business of scientific publishing bad for science? The Guardian, published on 27 June 2017; accessed on 23rd December 2023.
 
-Reference 2: Leigh-Ann Butler, et al., The oligopoly’s shift to open access: How the big five academic publishers profit from article processing charges, Quantitative Science Studies 1–22; accessed on 23rd December 2023.
+[Reference 2](https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00272/118070/The-Oligopoly-s-Shift-to-Open-Access-How-the-Big): Leigh-Ann Butler, et al., The oligopoly’s shift to open access: How the big five academic publishers profit from article processing charges, Quantitative Science Studies 1–22; accessed on 23rd December 2023.
 
-Reference 3: Mark A. Hansen, et al., The strain on scientific publishing, arXiv:2309.15884; accessed on 23rd December 2023. 
+[Reference 3](https://arxiv.org/abs/2309.15884): Mark A. Hansen, et al., The strain on scientific publishing, arXiv:2309.15884; accessed on 23rd December 2023. 
 
-Reference 4: Paul Sutter, How can we restore public trust in science? (op-ed), published in space.com, on 9th December 2023. ; accessed on 23rd December 2023.
+[Reference 4](https://www.space.com/how-can-we-restore-public-trust-in-science): Paul Sutter, How can we restore public trust in science? (op-ed), published in space.com, on 9th December 2023. ; accessed on 23rd December 2023.
 
-Reference 5: J. E. Hirsch, Superconductivity, what the H? The emperor has no clothes, arXiv:2001.09496v1; accessed on 23rd December 2023.
+[Reference 5](https://arxiv.org/abs/2001.09496): J. E. Hirsch, Superconductivity, what the H? The emperor has no clothes, arXiv:2001.09496v1; accessed on 23rd December 2023.
 
-Reference 6: Richard Van Noorden, More than 10,000 research papers were retracted in 2023 — a new record, published in Nature.com on 12th December 2023; accessed on 23rd December 2023.
+[Reference 6](https://www.nature.com/articles/d41586-023-03974-8): Richard Van Noorden, More than 10,000 research papers were retracted in 2023 — a new record, published in Nature.com on 12th December 2023; accessed on 23rd December 2023.
 
-Reference 7 time step 9:22 : #BLOCKCON— Day 2 (Oct 11) — Fireside Chat: Nassim Nicholas Taleb & Naval Ravikant, published on youtube on 14th October 2018; accessed on 23rd December 2023.
+[Reference 7](https://www.youtube.com/watch?v=Da0aXfshlxM&t=4190s) time step 9:22 : #BLOCKCON— Day 2 (Oct 11) — Fireside Chat: Nassim Nicholas Taleb & Naval Ravikant, published on youtube on 14th October 2018; accessed on 23rd December 2023.
 
 Reference 8: This is based on a personal experience. I received an email a few months ago from a surface-enhanced Raman scattering substrate maker based in Poland. In the email, they inquired about my interest in purchasing their products. Notably, at the end of the email, there was a section that clarified they had purchased my contact information from Elsevier. 
 
-Reference 9: UO Libraries, UO Libraries’ Elsevier Contract Negotiations, 27th November 2023; accessed on 23rd December 2023.
+[Reference 9](https://library.uoregon.edu/news/2022/uo-libraries-elsevier-contract-negotiations): UO Libraries, UO Libraries’ Elsevier Contract Negotiations, 27th November 2023; accessed on 23rd December 2023.
 
-Reference 10: Hasok Chang, A Personal Statement on the Current State of Academic Publishing, 8th January 2018; accessed on 23rd December 2023.
+[Reference 10](https://www.hps.cam.ac.uk/files/chang-publishing.pdf): Hasok Chang, A Personal Statement on the Current State of Academic Publishing, 8th January 2018; accessed on 23rd December 2023.
 
 
 
