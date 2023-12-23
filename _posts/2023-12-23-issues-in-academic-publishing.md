@@ -7,15 +7,10 @@ If you work in academia or know someone in the circle, you probably have heard o
 
 
 "The men of my own stock,
-
 They may do ill or well,
-
 But they tell the lies I am wanted to,
-
 They are used to the lies I tell;
-
 And we do not need interpreters
-
 When we go to buy or sell."      
 
 The Stranger,  by Rudyard Kipling
