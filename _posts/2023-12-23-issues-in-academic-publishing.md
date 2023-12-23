@@ -6,7 +6,7 @@ permalink: /posts/2023-12-23-issues-in-academic-publishing/
 If you work in academia or know someone in the circle, you probably have heard of the phrase “Publish or perish”. This phrase, once might be told as joke, has now became a mantra within the academic industry. The heavy emphasis on publication has been causing serious issues. In this post, I will try to address these issues and provide a solution. 
 
 
-*“The men of my own stock,
+*The men of my own stock,
 
 They may do ill or well,
 
@@ -16,9 +16,9 @@ They are used to the lies I tell;
 
 And we do not need interpreters
 
-When we go to buy or sell.”*
+When we go to buy or sell.*   
 
-                               The Stranger,  by Rudyard Kipling
+      # The Stranger,  by Rudyard Kipling
 
 
 Like many of you with an email account, I regularly received spam emails, a trend that has been consistent since I opened my first account about two decades ago. Over the years, the nature of the unsolicited emails evolved, both in frequency and content. Initially, I would receive one or two phishing emails each day, often claiming to be from a Nigerian princes seeking my bank information for a purported inheritance transfer and share. Nowadays, the majority of such spam emails come from academic conferences and publishers, often inviting me to attend their conferences, contribute to book chapters, serve as an editor or submit articles to their, I quote, “honorable journals.”
