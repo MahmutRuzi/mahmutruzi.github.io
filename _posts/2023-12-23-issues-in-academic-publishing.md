@@ -7,11 +7,17 @@ If you work in academia or know someone in the circle, you probably have heard o
 
 
 “The men of my own stock,
+
 They may do ill or well,
+
 But they tell the lies I am wanted to,
+
 They are used to the lies I tell;
+
 And we do not need interpreters
+
 When we go to buy or sell. ”
+
 
 The Stranger, by Rudyard Kipling
 
@@ -51,7 +57,7 @@ So far, I have outlined the main issues in academic publishing, including the so
 
 The fundamental objective of academic publishing should be the dissemination of knowledge. This was likely the case until commercial publishers discovered how to increase their profits by hook or by crook (Reference 1). In the age of internet, we no longer need the profit-driven academic publishers who, more often than not, hinder knowledge dissemination by barricading articles behind a paywall of increasingly high APC and subscription fees.
 
-There are existing platforms that effectively doing what academic publisher should do for free. Examples include the blog posts of the mathematician Terrence Tao and the computational chemistry blog of a research group at the University of Copenhagen. Additionally, alternative systems like the preprint repository arXiv already exist. One can submit or read papers on arXiv for free, unless choose to make a donation. The platform has been operational for 30 years and has thrived in certain areas like condensed matter physics, astronomy, and computer science. So, instead of enriching the greedy owners of commercial publishers, why not expand and improve upon the free services like arXiv?
+There are existing platforms that effectively doing what academic publisher should do for free. Examples include the blog posts of the mathematician [Terrence Tao](https://terrytao.wordpress.com) and the computational [chemistry blog](http://proteinsandwavefunctions.blogspot.com/2013/10/phd-position-in-molecular-modeling-at.html) of a research group at the University of Copenhagen. Additionally, alternative systems like the preprint repository arXiv already exist. One can submit or read papers on arXiv for free, unless choose to make a donation. The platform has been operational for 30 years and has thrived in certain areas like condensed matter physics, astronomy, and computer science. So, instead of enriching the greedy owners of commercial publishers, why not expand and improve upon the free services like arXiv?
 
 Well, that is exactly what I propose: expanding arXiv-like services globally and enhancing them. While the existing systems like arXiv have proven valuable, they probably cannot handle large amounts submission once upon the fated demise of commercial publishers. Moreover, articles published on arXiv do not undergo rigorous peer reviewing. Therefore, in addition to expansion, the new system I call Bilgikut could offer option to publicly share a signed review report, along with the submitted paper and a detailed revision history, if any been done. This approach not only broadens access to knowledge but also introduces transparency and accountability through a more robust peer-review process.
 
@@ -59,9 +65,9 @@ My vision for the proposed Bilgikut system closely resembles the structure of Ma
 
 Another parallel with the proposed system Bilgikut and Mastodon is the global distribution of servers that collectively host each instances, funded by countries that produce and consume significant amount of research. For example, the instance “Interfaces&Colloids” could be co-hosted by participating countries, with each country responsible for handling submitted papers from their territory, screening for suitability (similar to arXiv), and depositing them on the specific instance as part of a unified system. This collaborative approach ensures respresentation and sharing the financial burden. 
 
-So the proposed system Bilgikut functions similar to arXiv and serves as the final destination for articles, and operates in a manner akin to Mastodon. Besides operational ability, the financial aspects is also encouraging. In 2022, arXiv processed 2.2 million articles with annual expenses slightly exceeding 2.2 million USD. By comparison, Elsevier received 2.7 million submissions. If we assume that about 10 times the capacity of arXiv is needed to handle all submissions, then it equals to 22 million of articles and a budget of 22 million USD.
+So the proposed system Bilgikut functions similar to arXiv and serves as the final destination for articles, and operates in a manner akin to Mastodon. Besides operational ability, the financial aspects is also encouraging. In 2022, [arXiv](https://info.arxiv.org/about/reports/2022_arXiv_annual_report.pdf) processed 2.2 million articles with annual expenses slightly exceeding 2.2 million USD. By comparison, Elsevier received 2.7 million submissions. If we assume that about 10 times the capacity of arXiv is needed to handle all submissions, then it equals to 22 million of articles and a budget of 22 million USD.
 
-Assuming that 50 countries can and should share the cost, the annual budget per country would be 440, 000 USD. This amount is comparable to the annual subscription fee and APC fee paid by a single university, such as the University of Oregon. Another example: the University of California system alone paid Elsevier 11 million USD in 2022. Thus, the Bilgikut system seems financially reasonable. This arXiv style approach maintains the principles of free access to both academic researchers and broader public, including private companies. This aspect represents a fair approach, especially from a financial standpoint, as it eliminates the enrichment of publishers using taxpayer money.
+Assuming that 50 countries can and should share the cost, the annual budget per country would be 440, 000 USD. This amount is comparable to the annual subscription fee and APC fee paid by a single university, such as the University of Oregon. Another example: the [University of California](https://www.chemistryworld.com/news/university-of-california-and-elsevier-finally-reach-open-access-deal/4013414.article) system alone paid Elsevier 11 million USD in 2022. Thus, the Bilgikut system seems financially reasonable. This arXiv style approach maintains the principles of free access to both academic researchers and broader public, including private companies. This aspect represents a fair approach, especially from a financial standpoint, as it eliminates the enrichment of publishers using taxpayer money.
 
 Moreover, the proposed system has the potential to challenge the existing academic publishers, including predatory publishers like MDPI, Frontiers Media, and Hindawi. By making submission and reading of papers free, Bilgikut disrupts the profit-driven model that has led to an influx of low quality articles in scientific journals.
 
@@ -70,7 +76,7 @@ Another important issue to address is the aspect of peer-reviewing in the propos
 In the new system, the approach to peer-reviewing is to increase transparency and accountability. In Bilgikut, peer-reviewing is optional, with the reviews appreaing alongside the articles. This flexibility allows articles to be visible without reviews or with public signed reviews. The latter is preferable, as they enhance transparency and credibility of the system.
 In the Bilgikut system, peer-reviewing will be conducted after the article is deposited on the system. It starts with the funding agency of the work soliciting at least one expert, preferably residing in a different continent, to asses the quality of the work. The funding agency pays the reviewer a reasonable service fee, provided the he/she agrees to sign and publicly deposit a review report in the system. This process introduces both financial and reputation incentives for the reviewer, encouraging a careful and objective assessment of the work.
 
-The reasonable fee for a review largely depends on the expert’s place of residence. In the US, it might be a few hundred dollars, while in Turkey, it could be a few thousand Turkish lira. This fee can be offset from the funding allocated for the work. Furthermore, implementing an additional fee may deter ‘prolific’ scientist that spits out an article every 37 hours. Besides, a system that compensates reviewers for their time and effort could further motivate researchers like Dr. Elisabeth Bik who already undertake such activities voluntarily.
+The reasonable fee for a review largely depends on the expert’s place of residence. In the US, it might be a few hundred dollars, while in Turkey, it could be a few thousand Turkish lira. This fee can be offset from the funding allocated for the work. Furthermore, implementing an additional fee may deter [‘prolific’ scientist](https://english.elpais.com/science-tech/2023-04-02/one-of-the-worlds-most-cited-scientists-rafael-luque-suspended-without-pay-for-13-years.html) that spits out an article every 37 hours. Besides, a system that compensates reviewers for their time and effort could further motivate researchers like [Dr. Elisabeth Bik](https://scienceintegritydigest.com/about/) who already undertake such activities voluntarily.
 
 Paying for reviewing is not only fair but also economically viable. For example, assuming that only 10% of deposited articles undergo public review and each review is compensated with an average fee of $100, the total for the year 2022 would be $220 million. Considering that researchers globally paid a total of $1.06 billion in APC to the five largest commercial publishers during the three-year period of 2015–2018 (Reference 2), spending $220 million globally to compensate individual scientist for their crucial work of peer-reviewing is both cost effective and fair. In addition to public funding for peer-reviewing, charities and businesses can contribute to covering the costs of reviewing articles that align with their interest.
 
@@ -78,15 +84,17 @@ Last but not the least, we should modernize the format of academic publishing. T
 
 Moreover, all submitted papers should mandatory include original data. Encouraging and, in some cases, mandating the use of videos and audios, especially in experimental physical science and engineering articles, would be beneficial. Figures and tables could be made interactive using tools like Tableau, allowing for a more engaging and informative presentation. The use of multimedia in articles not only aids in illustrating complex experiments involving multiple steps but also saves space by reducing word counts.
 
-In the proposed Bilgikut system, every detail of an experiment or tests would be required. The system would be equipped with an AI assistant capable of automatically extracting experimental details, such as the devices used, the details of materials used including their sources and purity, experimental procedures, and comparing the these details to established protocols. It would raise warnings if any details are lacking or do not match the protocol, asking for the reason and further work, if necessary. This is crucial for addressing the reproducibility crisis in academic publishing, where a significant amount of research cannot be independently repeated with the same results.
+In the proposed Bilgikut system, every detail of an experiment or tests would be required. The system would be equipped with an AI assistant capable of automatically extracting experimental details, such as the devices used, the details of materials used including their sources and purity, experimental procedures, and comparing the these details to established protocols. It would raise warnings if any details are lacking or do not match the protocol, asking for the reason and further work, if necessary. This is crucial for addressing the [reproducibility crisis](https://doi.org/10.1038/533452a) in academic publishing, where a significant amount of research cannot be independently repeated with the same results.
 
 The Bilgikut system I propose represents a step towards revolutionizing academic publishing in the digital age. My goal is to replace the profit-driven model with a system that prioritizes the interests of researchers, funding agencies, and humanity as a whole. While this proposal may have its own shortcomings, I hope it offers researchers, institutions, and funding agencies to consider and collaborate on improving the quality of academic publishing.
 
-Disclaimer:
+# Disclaimer:
+
 1. ChatGPT is used for grammar and readability checks.
 2. I have been submitting to and reviewing for several commercial publishers. As a researchers who has recently published, it seems reasonable to continue reviewing for them for the time being, in fairness to other researchers who have reviewed my work.
-3. 
-References:
+ 
+# References:
+
 Reference 1: Stephen Buranyi, Is the staggeringly profitable business of scientific publishing bad for science? The Guardian, published on 27 June 2017; accessed on 23rd December 2023.
 
 Reference 2: Leigh-Ann Butler, et al., The oligopoly’s shift to open access: How the big five academic publishers profit from article processing charges, Quantitative Science Studies 1–22; accessed on 23rd December 2023.
