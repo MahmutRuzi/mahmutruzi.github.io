@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to my personal website! 
 
-My name is Mahmut Ruzi, chemist with a Ph.D. degree, and I am currently working as a research fellow at Erciyes University's [Nanotechnology Research and Application Center (ERNAM)](https://ernam.erciyes.edu.tr) in the lab of [Prof. M. Serdar Onses](http://www.onseslab.com). 
+My name is Mahmut Ruzi, a chemist. I am currently working as a research fellow at Erciyes University's [Nanotechnology Research and Application Center (ERNAM)](https://ernam.erciyes.edu.tr) in the lab of [Prof. M. Serdar Onses](http://www.onseslab.com). 
 
 ![ernam-low](https://user-images.githubusercontent.com/70721965/213926886-dd5ebe17-5b3f-47c7-a676-84c03eaafe92.jpg)
 The side view of ERNAM building. Taken by Mahmut Ruzi on a typical summer day of 2021. 
