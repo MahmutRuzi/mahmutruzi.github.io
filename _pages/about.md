@@ -26,8 +26,8 @@ In addition to working on plasmonic nanostructures,  I also supervise students o
 
 # News
 ### November 20th, 2023
-- New paper about solvent-free preparation of antifouling liquid-like slippery surfaces exploiting mechanochemical degradation of PDMS is published in [ACS Applied Materials & Interfaces](https://doi.org/10.1021/acsami.3c11352)
-
+- New paper about solvent-free preparation of antifouling liquid-like slippery surfaces exploiting mechanochemical degradation of PDMS is published in [ACS Applied Materials & Interfaces](https://doi.org/10.1021/acsami.3c11352).
+![](/images/mod1-mechochem-ACSAMI.jpeg)
 ### August 10th, 2023
 - Latest work just published in [ACS Applied Nano Materials](https://doi.org/10.1021/acsanm.3c02489). Is solvent necessary in chemical reactions ? No necessarily! In this paper, we demonstrated hydrophobic modification of silica nanoparticles without using any solvents! The key is mechanochemistry. Read more for details.  
  ![](/images/Alkysilane-silica-milling-2023-08-10.png)
