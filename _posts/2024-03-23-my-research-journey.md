@@ -6,21 +6,7 @@ permalink: /posts/2024-03-23-my-research-journey/
 A Reflection on Personal Research Journey
 
 
-“Desiring this man’s art and that man’s scope,
-
-With what I most enjoy contented lest;
-
-Yet in these thoughts myself almost despising,
-
-Haply I think on thee, and then my state,
-
-Like to the lark at break of day arising
-
-From sullen earth sings hymns at heaven’s gate;
-
-For thy sweet love remembered such wealth brings,
-
-That then I scorn to change my state with kings.”
+“Desiring this man’s art and that man’s scope,                                                                                   With what I most enjoy contented lest;                                                                                            Yet in these thoughts myself almost despising,                                                                                  Haply I think on thee, and then my state,                                                                                        Like to the lark at break of day arising                                                                                         From sullen earth sings hymns at heaven’s gate;                                                                                   For thy sweet love remembered such wealth brings,                                                                                That then I scorn to change my state with kings.”
 
 
 *Sonnet 29*, by William Shakespeare
