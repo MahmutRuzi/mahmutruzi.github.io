@@ -3,7 +3,7 @@ title: 'Improving Academic Writing Skills: Personal Perspective as an ESL Resear
 date: 2023-01-01
 permalink: /posts/2021/03/2021-03-07-Improve-academic-writing/ 
 ---
-This is a cross-post of [a post I wrote](https://medium.com/@mahmutruzi/improving-academic-writing-skills-personal-perspective-of-an-esl-researcher-491c60a6d8db) in medium. In this post I try to provide personal experience in improving academic writing skills as a non-native speaker of the English language.  
+In this post I try to provide personal experience in improving academic writing skills as a non-native speaker of the English language.  
 
 If you're struggling with academic writing as an English as a Second Language (ESL) researcher, you're not alone. There is a wealth of advice available online, and even some pop up, unsolicited, in your mailbox. But much of it assumes that you already have some writing skills, such as the ability to write a short essay or letter. While this advice can be helpful in refining your writing to the formality and structure of academic writing, it may not be as useful if you're still having trouble putting words together coherently or unsure about the proper usage of pronouns like "these," "those," "a," and "the." In this post, I'd like to share my own experience in improving my academic writing skills as an ESL researcher. While I'm not an expert on the subject, I hope that my personal perspective will be helpful to others in a similar position. 
 
